@@ -12,8 +12,8 @@
 <item-entry Tid="s" ord="0" type="actor">
 <item Lid="dog" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-en/extra/theDog.mp3" text="The dog" var-1="" var-2="" var-3=""/>
 <item Lid="mouse" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-en/extra/theMouse.mp3" text="The mouse" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="girl" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-en/girl.mp3" text="The girl" var-1="" var-2="" var-3=""/>
+<item Lid="boy" action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="audio/words-en/boy.mp3" text="The boy" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
