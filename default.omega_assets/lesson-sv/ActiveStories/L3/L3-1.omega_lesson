@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE omega_lesson >
 
 <omega_lesson version="0.0">
@@ -20,7 +20,7 @@
 <item dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/Stories/L3/L3-1" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-sv/L3/SitsInRoom.wav" text="sitter i sitt rum och är lite ledsen" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/Stories/L3/L3-1" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-sv/L3/SitsInRoom.wav" text="sitter i sitt rum och Ã¤r lite ledsen" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="1" sound="" text="" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>

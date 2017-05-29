@@ -33,10 +33,6 @@
 </items>
 </lesson>
 <action_specific>
-<value key="Koppen{s} hoppar över{v} koppen{o}" val="anim/ActiveVideo/CupJumpsCup.mpg"/>
-<value key="Koppen{s} hoppar över{v} handen{o}" val="anim/ActiveVideo/CupJumpsHand.mpg"/>
-<value key="Koppen hoppar över koppen" val="anim/ActiveVideo/CupJumpsCup.mpg"/>
-<value key="Koppen hoppar över handen" val="anim/ActiveVideo/CupJumpsHand.mpg"/>
 </action_specific>
 <test_entries>
 <test_entry ord="0" type="pre">

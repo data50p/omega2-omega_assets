@@ -12,48 +12,49 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="octopus" action-fname="" action-type="null" dummysound="" dummytext="" ord="0" sound="audio/words-nb_NO_BN/octopus.wav" text="blekkspruten" var-1="" var-2="" var-3=""/>
-<item Lid="RedhBoy" action-fname="" action-type="null" dummysound="" dummytext="" ord="1" sound="audio/words-nb_NO_BN/theRedheadedBoy.wav" text="den rødhårete gutten" var-1="" var-2="" var-3=""/>
-<item Lid="BlondGirl" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-nb_NO_BN/theBlondGirl.wav" text="den blonde jenten" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="octopus" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-nb_NO_BN/octopus.wav" text="blekkspruten" var-1="" var-2="" var-3=""/>
+<item Lid="RedhBoy" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-nb_NO_BN/theRedheadedBoy.wav" text="den rødhårete gutten" var-1="" var-2="" var-3=""/>
+<item Lid="BlondGirl" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-nb_NO_BN/theBlondGirl.wav" text="den blonde jenten" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/Kick{++1}" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-nb_NO_BN/kicks.wav" text="sparker" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/Head{++1}" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-nb_NO_BN/heads.wav" text="nikker" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/Kick{++1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-nb_NO_BN/kicks.wav" text="sparker" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/Head{++1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-nb_NO_BN/heads.wav" text="nikker" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 <item-entry Tid="o" ord="2" type="passive">
-<item Lid="balloons" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-nb_NO_BN/balloons.wav" text="ballongene" var-1="Ball" var-2="" var-3=""/>
-<item Lid="ball" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-nb_NO_BN/SockerBall.wav" text="fotballen" var-1="Ball" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="balloons" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-nb_NO_BN/balloons.wav" text="ballongene" var-1="Ball" var-2="" var-3=""/>
+<item Lid="ball" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-nb_NO_BN/SoccerBall.wav" text="fotballen" var-1="Ball" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 <item-entry Tid="av" ord="3" type="passive">
-<item action-fname="" action-type="null" dummysound="audio/words-nb_NO_BN/dummy/intothehouse.wav" dummytext="inn i huset" ord="0" sound="audio/words-nb_NO_BN/IntoTheGoal.wav" text="inn i målet" var-1="IntoGoal" var-2="" var-3=""/>
-<item Lid="BlondGirl2" action-fname="" action-type="omega_anim" dummysound="audio/words-nb_NO_BN/dummy/tilldenmorkegeiten.mp3" dummytext="til de mørke geiten" ord="1" sound="audio/words-nb_NO_BN/ToTheBlondGirl.wav" text="til den blonde jenten" var-1="ToPerson" var-2="" var-3=""/>
-<item action-fname="" action-type="null" dummysound="audio/words-nb_NO_BN/dummy/overmaletoinihandlekortet.mp3" dummytext="over målet og in o handlekortet" ord="2" sound="audio/words-nb_NO_BN/OverTheGoalAndIntoTheHelicopter.wav" text="over målet og inn i helikopteret" var-1="OverGoalHeli" var-2="null" var-3="null"/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="null" dummysign="" dummysound="audio/words-nb_NO_BN/dummy/intothehouse.wav" dummytext="inn i huset" ord="0" sign="" sound="audio/words-nb_NO_BN/IntoTheGoal.wav" text="inn i målet" var-1="IntoGoal" var-2="" var-3=""/>
+<item Lid="BlondGirl2" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-nb_NO_BN/dummy/tilldenmorkegeiten.mp3" dummytext="til de mørke geiten" ord="1" sign="" sound="audio/words-nb_NO_BN/ToTheBlondGirl.wav" text="til den blonde jenten" var-1="ToPerson" var-2="" var-3=""/>
+<item action-fname="" action-type="null" dummysign="" dummysound="audio/words-nb_NO_BN/dummy/overmaletoinihandlekortet.mp3" dummytext="over målet og in o handlekortet" ord="2" sign="" sound="audio/words-nb_NO_BN/OverTheGoalAndIntoTheHelicopter.wav" text="over målet og inn i helikopteret" var-1="OverGoalHeli" var-2="null" var-3="null"/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 </items>
 </lesson>
 <action_specific/>
+<sign_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="Blekkspruten{s} sparker{v} ballongene{o} inn i målet{av}"/>

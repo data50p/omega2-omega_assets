@@ -11,73 +11,48 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-en/extra/thePrincess.mp3" text="The princess" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-en/extra/thePrince.mp3" text="The prince" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/extra/thePrincess.mp3" text="The princess" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/extra/thePrince.mp3" text="The prince" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/ActorpresB1" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-en/extra/kisses.mp3" text="kisses" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/ActorPresB2" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-en/extra/pushes2.mp3" text="pushes" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/ActorpresB1" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/extra/kisses.mp3" text="kisses" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/ActorPresB2" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/extra/pushes2.mp3" text="pushes" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 <item-entry Tid="o" ord="2" type="passive">
-<item action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-en/extra/thePrince.mp3" text="the prince" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-en/extra/thePrincess.mp3" text="the princess" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/extra/thePrince.mp3" text="the prince" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/extra/thePrincess.mp3" text="the princess" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 </items>
 </lesson>
 <action_specific>
-<value key="Prinsessan pussar prinsen" val="anim/ActiveVideo/PrincessKissesPrince.mpg"/>
-<value key="Prinsen{s} pussar{v} pinsessan{o}" val="anim/ActiveVideo/PrinceKissesPrincess.mpg"/>
-<value key="Koppen{s} hoppar över{v} koppen{o}" val=""/>
-<value key="Prinsessan knuffar prinsen" val="anim/ActiveVideo/PrincessPushesPrince.mpg"/>
-<value key="The princess kisses the prince" val="anim/ActiveVideo/PrincessKissesPrince.mpg"/>
-<value key="The princess pushes the prince" val="anim/ActiveVideo/PrincessPushesPrince.mpg"/>
-<value key="Prinsen{s} knuffar{v} prinsen{o}" val="anim/ActiveVideo/PrincePushesPrince.mpg"/>
-<value key="Prinsessan{s} pussar{v} pinsessan{o}" val="anim/ActiveVideo/PrincessKissesPrincess.mpg"/>
-<value key="Prinsen knuffar prinsen" val="anim/ActiveVideo/PrincePushesPrince.mpg"/>
-<value key="Handen{s} hoppar över{v} koppen{o}" val=""/>
-<value key="The princess pushes the princess" val="anim/ActiveVideo/PrincessPushesPrincess.mpg"/>
-<value key="The prince pushes the prince" val="anim/ActiveVideo/PrincePushesPrince.mpg"/>
-<value key="Prinsessan knuffar prinsessan" val="anim/ActiveVideo/PrincessPushesPrincess.mpg"/>
-<value key="Koppen{s} hoppar över{v} handen{o}" val=""/>
-<value key="Prinsen pussar prinsessan" val="anim/ActiveVideo/PrinceKissesPrincess.mpg"/>
-<value key="Prinsen knuffar prinsessan" val="anim/ActiveVideo/PrincePushesPrincess.mpg"/>
-<value key="Prinsessan{s} knuffar{v} prinsen{o}" val="anim/ActiveVideo/PrincessPushesPrince.mpg"/>
-<value key="Prinsessan{s} pussar{v} prinsen{o}" val="anim/ActiveVideo/PrincessKissesPrince.mpg"/>
-<value key="Prinsessan pussar pinsessan" val="anim/ActiveVideo/PrincessKissesPrincess.mpg"/>
-<value key="Prinsen knuffar pinsessan" val="anim/ActiveVideo/PrincePushesPrincess.mpg"/>
-<value key="Prinsen{s} knuffar{v} pinsessan{o}" val="anim/ActiveVideo/PrincePushesPrincess.mpg"/>
-<value key="Prinsen pussar pinsessan" val="anim/ActiveVideo/PrinceKissesPrincess.mpg"/>
-<value key="Koppen hoppar över koppen" val="anim/ActiveVideo/CupJumpsCup.mpg"/>
-<value key="Prinsen{s} pussar{v} prinsen{o}" val="anim/ActiveVideo/PrinceKissesPrince.mpg"/>
-<value key="The prince pushes the princess" val="anim/ActiveVideo/PrincePushesPrincess.mpg"/>
-<value key="Prinsessan pussar prinsessan" val="anim/ActiveVideo/PrincessKissesPrincess.mpg"/>
-<value key="The princess kisses the princess" val="anim/ActiveVideo/PrincessKissesPrincess.mpg"/>
-<value key="The prince kisses the princess" val="anim/ActiveVideo/PrinceKissesPrincess.mpg"/>
-<value key="Koppen hoppar över handen" val="anim/ActiveVideo/CupJumpsHand.mpg"/>
-<value key="Prinsen pussar prinsen" val="anim/ActiveVideo/PrinceKissesPrince.mpg"/>
-<value key="The prince kisses the prince" val="anim/ActiveVideo/PrinceKissesPrince.mpg"/>
-<value key="Handen{s} hoppar över{v} handen{o}" val=""/>
-<value key="Prinsessan knuffar pinsessan" val="anim/ActiveVideo/PrincessPushesPrincess.mpg"/>
-<value key="Prinsessan{s} knuffar{v} pinsessan{o}" val="anim/ActiveVideo/PrincessPushesPrincess.mpg"/>
+<value key="The princess kisses the princess" val="anim/ActiveVideo/old/PrincessKissesPrincess.mp4"/>
+<value key="The prince pushes the princess" val="anim/ActiveVideo/old/PrincePushesPrincess.mp4"/>
+<value key="The princess pushes the prince" val="anim/ActiveVideo/old/PrincessPushesPrince.mp4"/>
+<value key="The prince kisses the princess" val="anim/ActiveVideo/old/PrinceKissesPrincess.mp4"/>
+<value key="The princess pushes the princess" val="anim/ActiveVideo/old/PrincessPushesPrincess.mp4"/>
+<value key="The princess kisses the prince" val="anim/ActiveVideo/old/PrincessKissesPrince.mp4"/>
+<value key="The prince kisses the prince" val="anim/ActiveVideo/old/PrinceKissesPrince.mp4"/>
+<value key="The prince pushes the prince" val="anim/ActiveVideo/old/PrincePushesPrince.mp4"/>
 </action_specific>
+<sign_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="Handen hoppar över handen"/>
