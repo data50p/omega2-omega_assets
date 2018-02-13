@@ -1,0 +1,1 @@
+find default.omega_assets -type f -exec chmod a-x '{}' \;
