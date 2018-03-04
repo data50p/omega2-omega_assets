@@ -1,1 +1,2 @@
+rm -rf $(find . -name '*prev')
 find . -type f -exec chmod a-x '{}' \;
