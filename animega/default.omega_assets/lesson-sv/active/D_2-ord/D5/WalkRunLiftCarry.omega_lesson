@@ -13,7 +13,7 @@
 <item Lid="man{+2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="the pelican" ord="0" sign="" sound="audio/words-sv/mouse.mp3" text="Mannen" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="girl{+2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="the rabbit" ord="1" sign="" sound="audio/words-sv/girl.mp3" text="Flickan" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="robot{+2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="the moose" ord="2" sign="" sound="audio/words-en/rabbitB.mp3" text="Roboten" var-1="Robot" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="boy{+2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="Pojken" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="boy{+2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/boy.mp3" text="Pojken" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="woman{+2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="Kvinnan" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -23,8 +23,8 @@
 <item action-fname="anim/ActiveAnim/ActorWalk" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/walks.mp3" text="går" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/ActorRun" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/rolls.mp3" text="springer" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/ActorLift" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/kicks.mp3" text="lyfter" var-1=",B" var-2=",box" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/InSchoolyard" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/jumps.mp3" text="hoppar" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/CarryRockOnRock" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-sv/carries.mp3" text="bär" var-1=",B" var-2=",stone" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

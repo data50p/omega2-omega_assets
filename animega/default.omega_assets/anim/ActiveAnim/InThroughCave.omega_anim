@@ -16,7 +16,7 @@
 <lesson verb="$jump hoppar över $standstill"/>
 <AllActors>
 <Actor hotspot_begin="0.649078014184397 0.8799999999999999" hotspot_end="0.6241134751773049 0.8799999999999999" hotspot_rotate="0.3744680851063829 0.7699999999999999" lesson_id="girl" name="actor/FlyJump/BlondGirl2.png" nid="0" prim_mirror="1" prim_scale="0.6" var1="" var2="" var3=""/>
-<Actor hotspot_begin="0.2705479452054794 0.61" hotspot_end="0.2705479452054794 0.61" hotspot_rotate="0.3517123287671232 0.63" lesson_id="boy" name="actor/FlyJump/boy.png" nid="1" prim_mirror="0" prim_scale="0.7" var1="" var2="" var3=""/>
+<Actor hotspot_begin="0.2705479452054794 0.61" hotspot_end="0.2705479452054794 0.61" hotspot_rotate="0.3517123287671232 0.63" lesson_id="boy" name="actor/FlyJump/Boy.png" nid="1" prim_mirror="0" prim_scale="0.7" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.6277600000000001 1.01" hotspot_end="0.6277600000000001 0.99" hotspot_rotate="0.031920000000000004 0.99" lesson_id="ghost" name="actor/FlyJump/ghost.png" nid="2" prim_mirror="1" prim_scale="1.2" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.33384615384615385 0.96" hotspot_end="0.3576923076923077 0.96" hotspot_rotate="0.4769230769230769 0.97" lesson_id="gorilla" name="actor/FlyJump/Gorilla.png" nid="3" prim_mirror="1" prim_scale="0.8" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.3675 0.9" hotspot_end="0.37975000000000003 0.9" hotspot_rotate="0.4655 0.77" lesson_id="dino" name="actor/FlyJump/MyDino.png" nid="4" prim_mirror="1" prim_scale="1.2" var1="" var2="" var3=""/>

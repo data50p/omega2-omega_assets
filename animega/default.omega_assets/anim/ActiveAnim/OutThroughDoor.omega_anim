@@ -23,7 +23,7 @@
 <Actor hotspot_begin="0.4992907801418439 0.9299999999999998" hotspot_end="0.4992907801418439 0.9299999999999998" hotspot_rotate="0.5 0.5" lesson_id="girl" name="actor/FlyJump/GirlBlond.png" nid="0" prim_mirror="0" prim_scale="0.4" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.4971698113207547 0.5" hotspot_end="0.4971698113207547 0.5" hotspot_rotate="0.5 0.5" name="actor/Things/SingleRightDoor.png" nid="1" prim_mirror="0" prim_scale="1.95" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.49600000000000005 0.92" hotspot_end="0.49600000000000005 0.92" hotspot_rotate="0.5 0.5" lesson_id="cat" name="actor/FlyJump/CatSmall.png" nid="2" prim_mirror="0" prim_scale="0.6" var1="" var2="" var3=""/>
-<Actor hotspot_begin="0.5 0.9" hotspot_end="0.5 0.9" hotspot_rotate="0.5 0.5" lesson_id="boy" name="actor/FlyJump/boy.png" nid="3" prim_mirror="1" prim_scale="0.4" var1="" var2="" var3=""/>
+<Actor hotspot_begin="0.5 0.9" hotspot_end="0.5 0.9" hotspot_rotate="0.5 0.5" lesson_id="boy" name="actor/FlyJump/Boy.png" nid="3" prim_mirror="1" prim_scale="0.4" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.64925 0.89" hotspot_end="0.637 0.89" hotspot_rotate="0.5 0.5" lesson_id="dino" name="actor/FlyJump/MyDino.png" nid="4" prim_mirror="0" prim_scale="1.2" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_5.gif" nid="5" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_6.gif" nid="6" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>

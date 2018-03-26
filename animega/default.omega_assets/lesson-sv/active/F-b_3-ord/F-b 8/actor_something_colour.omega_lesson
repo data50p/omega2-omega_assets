@@ -21,9 +21,9 @@
 <item Lid="boy,boy2" action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="Pojkarna" var-1="" var-2="" var-3=",something2" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/CarryingSomething" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/acts-with.wav" text="bär" var-1="B,D" var-2="{-3}" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/CarryingSomething" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/carries.mp3" text="bär" var-1="B,D" var-2="{-3}" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/SellingSomething" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="anim/ActiveAnim/SellingSomething" text="säljer" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/PointingAtSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/PointsAt.mp3" text="pekar på" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
