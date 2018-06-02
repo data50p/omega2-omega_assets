@@ -1,0 +1,18 @@
+#!/bin/sh
+ 
+cmd=mv
+ 
+f=$1
+shift
+
+if [ $# == 3 ]; then
+	cmd=$1
+	shift
+fi
+		 
+if [ $# != 2 ]; then
+	echo usage: $0 from to   or   $0 cmd from to
+	exit 1
+fi
+				 
+echo $f | grep -e "$1" | sed "s/\(.*\)\($1\)\(.*\)/${cmd} \"\1\2\3\" \"\1$2\3\"/"
