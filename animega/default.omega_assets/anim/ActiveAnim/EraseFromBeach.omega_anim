@@ -24,8 +24,8 @@
 <AllActors>
 <Actor hotspot_begin="0.4485 0.96" hotspot_end="0.4485 0.96" hotspot_rotate="0.5 0.5" lesson_id="Fairy" name="actor/Divertext/Fairy.png" nid="0" prim_mirror="0" prim_scale="1.2" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.4485 0.96" hotspot_end="0.4485 0.96" hotspot_rotate="0.5 0.5" lesson_id="Fairy2" name="actor/Divertext/Fairy.png" nid="1" prim_mirror="0" prim_scale="1.2" var1="" var2="" var3=""/>
-<Actor hotspot_begin="0.49733766233766236 0.95" hotspot_end="0.49733766233766236 0.95" hotspot_rotate="0.5 0.5" lesson_id="Farao" name="actor/Divertext/Farao.png" nid="2" prim_mirror="0" prim_scale="0.9" var1="" var2="" var3=""/>
-<Actor hotspot_begin="0.49733766233766236 0.96" hotspot_end="0.49733766233766236 0.96" hotspot_rotate="0.5 0.5" lesson_id="Farao2" name="actor/Divertext/Farao.png" nid="3" prim_mirror="0" prim_scale="0.8" var1="" var2="" var3=""/>
+<Actor hotspot_begin="0.49733766233766236 0.95" hotspot_end="0.49733766233766236 0.95" hotspot_rotate="0.5 0.5" lesson_id="Pharao" name="actor/Divertext/Pharao.png" nid="2" prim_mirror="0" prim_scale="0.9" var1="" var2="" var3=""/>
+<Actor hotspot_begin="0.49733766233766236 0.96" hotspot_end="0.49733766233766236 0.96" hotspot_rotate="0.5 0.5" lesson_id="Pharao2" name="actor/Divertext/Pharao.png" nid="3" prim_mirror="0" prim_scale="0.8" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.6472295514511873 1.03" hotspot_end="0.6531134564643799 1.03" hotspot_rotate="0.5 0.5" lesson_id="Ghost" name="actor/Divertext/Ghost.png" nid="4" prim_mirror="0" prim_scale="1.2" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.6531134564643799 1.0" hotspot_end="0.6531134564643799 1.0" hotspot_rotate="0.500131926121372 0.5" lesson_id="Ghost2" name="actor/Divertext/Ghost.png" nid="5" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_6.gif" nid="6" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>

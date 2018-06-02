@@ -11,38 +11,39 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="boy" action-fname="" action-type="null" dummysound="" dummytext="" ord="0" sound="audio/words-sv/boy.wav" text="Pojken" var-1="" var-2="" var-3=""/>
-<item Lid="girl" action-fname="" action-type="null" dummysound="" dummytext="" ord="1" sound="audio/words-sv/girl.wav" text="Flickan" var-1="" var-2="" var-3=""/>
-<item Lid="cat" action-fname="" action-type="null" dummysound="" dummytext="" ord="2" sound="audio/words-sv/cat.wav" text="Katten" var-1="" var-2="" var-3=""/>
-<item Lid="dino" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="audio/words-sv/dino.wav" text="Dinosaurien" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="boy" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/boy.wav" text="Pojken" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="girl" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/girl.wav" text="Flickan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="cat" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/cat.wav" text="Katten" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="dino" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/dino.wav" text="Dinosaurien" tts="dino-sa-ur-ien" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/InThrough{+1}" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-sv/looksinthrough.wav" text="tittar in genom" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/OutThrough{+1}" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-sv/looksoutfrom.wav" text="tittar ut från" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/InThrough{+1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/looksinthrough.wav" text="tittar in genom" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/OutThrough{+1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/looksoutfrom.wav" text="tittar ut från" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="av" ord="2" type="passive">
-<item action-fname="" action-type="null" dummysound="audio/words-sv/window.wav" dummytext="flaskan" ord="0" sound="audio/words-sv/window.wav" text="fönstret" var-1="Window" var-2="" var-3=""/>
-<item action-fname="" action-type="null" dummysound="audio/words-sv/dummy/porridge.wav" dummytext="gröten" ord="1" sound="audio/words-sv/cave.wav" text="grottan" var-1="Cave" var-2="" var-3=""/>
-<item action-fname="" action-type="omega_anim" dummysound="audio/words-sv/dummy/ditch.wav" dummytext="diket" ord="2" sound="audio/words-sv/door.wav" text="dörren" var-1="Door" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/window.wav" dummytext="flaskan" ord="0" sign="" sound="audio/words-sv/window.wav" text="fönstret" tts="" var-1="Window" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/porridge.wav" dummytext="gröten" ord="1" sign="" sound="audio/words-sv/cave.wav" text="grottan" tts="" var-1="Cave" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/ditch.wav" dummytext="diket" ord="2" sign="" sound="audio/words-sv/door.wav" text="dörren" tts="" var-1="Door" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 </items>
 </lesson>
 <action_specific/>
+<sign_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="Pojken{s} tittar in genom{v} grottan{av}"/>

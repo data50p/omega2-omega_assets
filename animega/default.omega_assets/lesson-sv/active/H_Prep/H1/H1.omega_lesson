@@ -13,58 +13,59 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="dog" action-fname="" action-type="null" dummysound="" dummytext="" ord="0" sound="audio/words-sv/dog.wav" text="Hunden" var-1="" var-2="" var-3=""/>
-<item Lid="mouse" action-fname="" action-type="null" dummysound="" dummytext="" ord="1" sound="audio/words-sv/mouse.wav" text="Musen" var-1="" var-2="" var-3=""/>
-<item Lid="gorilla" action-fname="" action-type="null" dummysound="" dummytext="" ord="2" sound="audio/words-sv/gorilla.wav" text="Gorillan" var-1="" var-2="" var-3=""/>
-<item Lid="panda" action-fname="" action-type="null" dummysound="" dummytext="" ord="3" sound="audio/words-sv/panda.wav" text="Pandan" var-1="" var-2="" var-3=""/>
-<item Lid="whale" action-fname="" action-type="null" dummysound="" dummytext="" ord="4" sound="audio/words-sv/whale.wav" text="Valen" var-1="" var-2="" var-3=""/>
-<item Lid="cat" action-fname="" action-type="null" dummysound="" dummytext="" ord="5" sound="audio/words-sv/cat.wav" text="Katten" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="dog" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/dog.wav" text="Hunden" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="mouse" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/mouse.wav" text="Musen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="gorilla" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/gorilla.wav" text="Gorillan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="panda" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/panda.wav" text="Pandan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="whale" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-sv/whale.wav" text="Valen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="cat" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-sv/cat.wav" text="Katten" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="passive">
-<item action-fname="" action-type="null" dummysound="" dummytext="" ord="0" sound="audio/words-sv/puts.wav" text="lägger" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="1" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="2" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/puts.wav" text="lägger" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="o" ord="2" type="actor">
-<item Lid="pizza" action-fname="" action-type="null" dummysound="" dummytext="" ord="0" sound="audio/words-sv/pizza.wav" text="pizzan" var-1="" var-2="" var-3=""/>
-<item Lid="banana" action-fname="" action-type="null" dummysound="" dummytext="" ord="1" sound="audio/words-sv/banana.wav" text="bananen" var-1="" var-2="" var-3=""/>
-<item Lid="hat" action-fname="" action-type="null" dummysound="" dummytext="" ord="2" sound="audio/words-sv/hat.wav" text="hatten" var-1="" var-2="" var-3=""/>
-<item Lid="carrot" action-fname="" action-type="null" dummysound="" dummytext="" ord="3" sound="audio/words-sv/carrot.wav" text="moroten" var-1="" var-2="" var-3=""/>
-<item Lid="butterfly" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="4" sound="audio/words-sv/butterfly.wav" text="fjärilen" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="pizza" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/pizza.wav" text="pizzan" tts="pizzann" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="banana" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/banana.wav" text="bananen" tts="bann-a-nen" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="hat" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/hat.wav" text="hatten" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="carrot" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/carrot.wav" text="moroten" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="butterfly" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-sv/butterfly.wav" text="fjärilen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="p" ord="3" type="action">
-<item action-fname="anim/ActiveAnim/PutOnTableRoomCW" action-type="omega_anim" dummysound="audio/words-sv/behind.wav" dummytext="bakom" ord="0" sound="audio/words-sv/on.wav" text="på" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/PutUnderTableRoomCW" action-type="omega_anim" dummysound="audio/words-sv/dummy/inbetween.wav" dummytext="mellan" ord="1" sound="audio/words-sv/under.wav" text="under" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/PutBesideTableRoomCW" action-type="omega_anim" dummysound="audio/words-sv/infrontof.wav" dummytext="framför" ord="2" sound="audio/words-sv/beside.wav" text="bredvid" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/PutOnTableRoomCW" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/behind.wav" dummytext="bakom" ord="0" sign="" sound="audio/words-sv/on.wav" text="på" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/PutUnderTableRoomCW" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/inbetween.wav" dummytext="mellan" ord="1" sign="" sound="audio/words-sv/under.wav" text="under" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/PutBesideTableRoomCW" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/infrontof.wav" dummytext="framför" ord="2" sign="" sound="audio/words-sv/beside.wav" text="bredvid" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="av" ord="4" type="actor">
-<item Lid="panda" action-fname="" action-type="null" dummysound="" dummytext="" ord="0" sound="audio/words-sv/pandatable.wav" text="pandans bord" var-1="" var-2="" var-3=""/>
-<item Lid="gorilla" action-fname="" action-type="null" dummysound="" dummytext="" ord="1" sound="audio/words-sv/gorillatable.wav" text="gorillans bord" var-1="" var-2="" var-3=""/>
-<item Lid="whale" action-fname="" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-sv/whalestable.wav" text="valens bord" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="panda" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/pandatable.wav" text="pandans bord" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="gorilla" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/gorillatable.wav" text="gorillans bord" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="whale" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/whalestable.wav" text="valens bord" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 </items>
 </lesson>
 <action_specific/>
+<sign_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="Hunden{s} lägger{v} pizzan{o} på{p} pandans bord{av}"/>

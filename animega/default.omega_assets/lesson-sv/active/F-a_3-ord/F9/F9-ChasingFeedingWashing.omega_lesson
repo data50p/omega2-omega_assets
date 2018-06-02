@@ -11,28 +11,29 @@
 </target>
 <items>
 <item-entry Tid="s,o" ord="0" type="actor">
-<item Lid="astronaut" action-fname="" action-type="omega_anim" dummysound="audio/words-sv/dummy/astronomer.wav" dummytext="astronomen" ord="0" sound="audio/words-sv/astronaut.wav" text="astronauten" var-1="" var-2="" var-3=""/>
-<item Lid="buzzard" action-fname="" action-type="null" dummysound="audio/words-sv/dummy/flie.wav" dummytext="flugan" ord="1" sound="audio/words-sv/bird.wav" text="fågeln" var-1="" var-2="" var-3=""/>
-<item Lid="penguin" action-fname="" action-type="null" dummysound="audio/words-sv/dummy/porcupine.wav" dummytext="piggsvinet" ord="2" sound="audio/words-sv/penguin.wav" text="pingvinen" var-1="" var-2="" var-3=""/>
-<item Lid="swan" action-fname="" action-type="omega_anim" dummysound="audio/words-sv/dummy/tail.wav" dummytext="svansen" ord="3" sound="audio/words-sv/swan.wav" text="svanen" var-1="" var-2="" var-3=""/>
-<item Lid="ghost" action-fname="" action-type="null" dummysound="audio/words-sv/dummy/rod.wav" dummytext="spöet" ord="4" sound="audio/words-sv/ghost.wav" text="spöket" var-1="" var-2="" var-3=""/>
-<item Lid="lion" action-fname="" action-type="null" dummysound="audio/words-sv/lemur.wav" dummytext="lemuren" ord="5" sound="audio/words-sv/lion.wav" text="lejonet" var-1="" var-2="" var-3=""/>
-<item Lid="tiger" action-fname="" action-type="null" dummysound="audio/words-sv/dummy/train.wav" dummytext="tåget" ord="6" sound="audio/words-sv/tiger.wav" text="tigern" var-1="" var-2="" var-3=""/>
-<item Lid="dino" action-fname="" action-type="null" dummysound="audio/words-sv/dummy/dromedary.wav" dummytext="dromedaren" ord="7" sound="audio/words-sv/dino.wav" text="dinosaurien" var-1="" var-2="" var-3=""/>
+<item Lid="astronaut" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/astronomer.wav" dummytext="astronomen" ord="0" sign="" sound="audio/words-sv/astronaut.wav" text="astronauten" tts="astro-nau-ten" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="buzzard" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/flie.wav" dummytext="flugan" ord="1" sign="" sound="audio/words-sv/bird.wav" text="fågeln" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="penguin" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/porcupine.wav" dummytext="piggsvinet" ord="2" sign="" sound="audio/words-sv/penguin.wav" text="pingvinen" tts="ping-vi-nen" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="swan" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/tail.wav" dummytext="svansen" ord="3" sign="" sound="audio/words-sv/swan.wav" text="svanen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="ghost" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/rod.wav" dummytext="spöet" ord="4" sign="" sound="audio/words-sv/ghost.wav" text="spöket" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="lion" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/lemur.wav" dummytext="lemuren" ord="5" sign="" sound="audio/words-sv/lion.wav" text="lejonet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="tiger" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/train.wav" dummytext="tåget" ord="6" sign="" sound="audio/words-sv/tiger.wav" text="tigern" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="dino" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/dromedary.wav" dummytext="dromedaren" ord="7" sign="" sound="audio/words-sv/dino.wav" text="dinosaurien" tts="dino-sa-ur-ien" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/ChaseChased2" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-sv/chases.wav" text="jagar" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/FeedCarrotPolar" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-sv/feeds.wav" text="matar" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/WashBath" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-sv/washes.wav" text="tvättar" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="3" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/ChaseChased2" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/chases.wav" text="jagar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/FeedCarrotPolar" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/feeds.wav" text="matar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/WashBath" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/washes.wav" text="tvättar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 </items>
 </lesson>
 <action_specific/>
+<sign_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="Astronauten{s} jagar{v} spöket{o}"/>

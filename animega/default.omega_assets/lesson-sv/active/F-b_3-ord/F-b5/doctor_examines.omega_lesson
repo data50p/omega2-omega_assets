@@ -34,8 +34,8 @@
 <item Lid="man" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/actor1.mp3" text="mannen" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="woman" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/actor2.mp3" text="kvinnan" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="woman2" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/actor3.mp3" text="den gravida kvinnan" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="boy" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/boy.mp3" text="pojken" var-1="child" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="girl" action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-sv/girl.mp3" text="flickan" var-1="child" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="boy" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/boy.mp3" text="pojken" var-1="Child" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="girl" action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-sv/girl.mp3" text="flickan" var-1="Child" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
