@@ -179,7 +179,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -193,7 +193,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -207,7 +207,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -221,7 +221,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -235,7 +235,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -249,7 +249,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -263,7 +263,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -277,7 +277,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -291,7 +291,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -305,7 +305,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -319,7 +319,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -333,7 +333,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -347,7 +347,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -361,7 +361,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -375,7 +375,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -547,7 +547,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -561,7 +561,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -575,7 +575,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -589,7 +589,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -603,7 +603,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -617,7 +617,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -631,7 +631,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -645,7 +645,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -659,7 +659,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -673,7 +673,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -687,7 +687,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -701,7 +701,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -729,7 +729,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -743,7 +743,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="-20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
@@ -757,7 +757,7 @@
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="20" cmd="Rotate" isOn="true"/>
-<TriggerEvent arg="-0.8" cmd="Scale" isOn="true"/>
+<TriggerEvent arg="-0.2" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
