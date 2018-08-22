@@ -11,8 +11,8 @@
 <item-entry Tid="v" ord="0" type="action">
 <item Lid="girl" action-fname="anim/ActiveAnim/B1" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-en/girl.wav" text="the girl" var-1="" var-2="" var-3=""/>
 <item Lid="boy" action-fname="anim/ActiveAnim/B1" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-en/boy.wav" text="the boy" var-1="" var-2="" var-3=""/>
-<item Lid="dog" action-fname="anim/ActiveAnim/ActorpresB1" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-en/dog.wav" text="the dog" var-1="" var-2="" var-3=""/>
-<item Lid="bee" action-fname="anim/ActiveAnim/ActorpresB1" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="audio/words-en/bee.wav" text="the bee" var-1="" var-2="" var-3=""/>
+<item Lid="dog" action-fname="anim/ActiveAnim/ActorPresB1" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-en/dog.wav" text="the dog" var-1="" var-2="" var-3=""/>
+<item Lid="bee" action-fname="anim/ActiveAnim/ActorPresB1" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="audio/words-en/bee.wav" text="the bee" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="4" sound="" text="" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="5" sound="" text="" var-1="" var-2="" var-3=""/>
 <item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>

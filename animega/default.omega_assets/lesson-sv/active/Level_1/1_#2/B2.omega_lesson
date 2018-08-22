@@ -15,14 +15,12 @@
 <item Lid="girl" action-fname="anim/ActiveAnim/B1" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="audio/words-sv/girl.wav" text="Flickan" var-1="" var-2="" var-3=""/>
 <item Lid="flag" action-fname="anim/ActiveAnim/ActorPresB6DownUp" action-type="omega_anim" dummysound="" dummytext="" ord="4" sound="audio/words-sv/flag.wav" text="Flaggan" var-1="" var-2="" var-3=""/>
 <item Lid="fish" action-fname="anim/ActiveAnim/ActorPresB5Water" action-type="omega_anim" dummysound="" dummytext="" ord="5" sound="audio/words-sv/fish.wav" text="Fisken" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="6" sound="audio/words-sv/dog.mp3" text="Hunden" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
 </item-entry>
 </items>
 </lesson>
-<action_specific>
-<value key="Hunden" val="anim/ActiveVideo/Dogwalk3.mpg"/>
-</action_specific>
+<action_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="Pojken{v}"/>
