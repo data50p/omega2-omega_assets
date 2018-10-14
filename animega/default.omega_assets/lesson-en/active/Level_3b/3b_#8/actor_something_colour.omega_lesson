@@ -24,7 +24,7 @@
 <item action-fname="anim/ActiveAnim/CarryingSomething" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/carries.mp3" text="carr{-2:y}" tts="" var-1="B,D" var-2="{-3}" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/SellingSomething" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/acts-with.mp3" text="sell{-1}" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/PointingAtSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-en/PointsAt.mp3" text="point{-1} at" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/LookingAtSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/acts-with.mp3" text="look{-1} at" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
