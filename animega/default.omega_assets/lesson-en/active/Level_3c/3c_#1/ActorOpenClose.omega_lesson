@@ -14,15 +14,15 @@
 <item Lid="girl" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/girl.mp3" text="The girl" tts="" var-1="Child" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="boy" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/boy.mp3" text="The boy" tts="" var-1="Child" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="woman" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-en/actor3.mp3" text="The woman" tts="" var-1="Actor" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="man" action-fname="" action-type="null" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/actor4.mp3" text="The man" tts="" var-1="Actor" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="robot" action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/theredbarn.mp3" text="The robot" tts="" var-1="Actor" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="man" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/actor4.mp3" text="The man" tts="" var-1="Actor" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="robot" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/theredbarn.mp3" text="The robot" tts="" var-1="Actor" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
 <item action-fname="anim/ActiveAnim/{-1}Open{+1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/acts-with.mp3" text="opens" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/{-1}Shut{+1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/acts-with.mp3" text="shuts" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/{-1}Close{+1}" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/acts-with.mp3" text="shuts" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -38,7 +38,7 @@
 <item Lid="cupboard" action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="the cupboard" tts="" var-1="Cupboard" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 </items>
 </lesson>
