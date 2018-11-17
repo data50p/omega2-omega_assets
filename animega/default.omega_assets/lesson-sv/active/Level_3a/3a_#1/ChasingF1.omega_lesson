@@ -64,7 +64,6 @@
 </test_entry>
 <test_entry ord="1" type="post">
 <sentence ord="0" text="Fågeln{s} jagar{v} fågeln{o}"/>
-<sentence ord="1" text="Moroten{s} jagar{v} fågeln{o}"/>
 <sentence ord="2" text="Fågeln{s} jagar{v} moroten{o}"/>
 <sentence ord="3" text="Moroten{s} jagar{v} moroten{o}"/>
 </test_entry>
