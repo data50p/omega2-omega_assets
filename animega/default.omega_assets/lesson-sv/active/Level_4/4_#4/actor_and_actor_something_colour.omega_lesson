@@ -58,7 +58,7 @@
 <item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-sv/actor3.wav" text="något beige" tts="" var-1="beige" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="något turkos" tts="" var-1="turquoise" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="något ljusblått" tts="" var-1="light_blue" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="något mörkblått" tts="" var-1="dark_blue" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="något mörkblått" tts="något mörk-blått" var-1="dark_blue" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="något grått" tts="" var-1="gray" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="något svart" tts="" var-1="black" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
