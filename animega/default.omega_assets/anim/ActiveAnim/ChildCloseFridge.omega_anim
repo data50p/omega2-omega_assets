@@ -178,7 +178,7 @@
 </TimeMarker>
 <TimeMarker duration="0" type="t" when="3593">
 <T_Event>
-<TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
+<TriggerEvent arg="audio/fridge-close.mp3" cmd="PlaySound" isOn="true"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
 <TriggerEvent arg="ajar" cmd="ImageAttrib" isOn="true"/>

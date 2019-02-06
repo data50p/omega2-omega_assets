@@ -8,8 +8,8 @@
 </Canvas>
 <AllPath>
 <TPath nid="0">
-<q ord="0" p1="511.02923583984375,624.4666748046875" p2="510.97039794921875,623.9591064453125" pc="511.02923583984375,623.9636840820312"/>
-<help len="0.0;0.5109672561053483" seg="511.02923583984375,624.4666748046875;510.97039794921875,623.9591064453125"/>
+<q ord="0" p1="473.77203369140625,617.9277954101562" p2="473.71319580078125,617.4202270507812" pc="473.8423767089844,617.43603515625"/>
+<help len="0.0;0.5109672561053483" seg="473.77203369140625,617.9277954101562;473.71319580078125,617.4202270507812"/>
 <info flatness="1.5" size="2"/>
 </TPath>
 <TPath nid="1">
@@ -34,7 +34,7 @@
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_11.gif" nid="11" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
 </AllActors>
 <AllWings>
-<Wing layer="1" mirror="0" name="Wings/stepstool.png" nid="0" position="424.0 600.0" scale="0.65"/>
+<Wing layer="1" mirror="0" name="Wings/stepstool.png" nid="0" position="384.0 595.0" scale="0.65"/>
 </AllWings>
 </AnimCanvas>
 <MTL>
@@ -74,7 +74,7 @@
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="close1Start" cmd="ImageAttrib" isOn="true"/>
+<TriggerEvent arg="closeHighStart" cmd="ImageAttrib" isOn="true"/>
 <TriggerEvent arg="Front" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
 <TriggerEvent arg="0.12" cmd="SetAnimSpeed" isOn="false"/>
@@ -89,7 +89,7 @@
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="close1" cmd="ImageAttrib" isOn="true"/>
+<TriggerEvent arg="closeHigh" cmd="ImageAttrib" isOn="true"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
 <TriggerEvent arg="0.12" cmd="SetAnimSpeed" isOn="true"/>
@@ -104,7 +104,7 @@
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="close1Stop" cmd="ImageAttrib" isOn="true"/>
+<TriggerEvent arg="closeHighStop" cmd="ImageAttrib" isOn="true"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
 <TriggerEvent arg="0.2" cmd="SetAnimSpeed" isOn="false"/>
@@ -176,7 +176,7 @@
 <TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
-<TimeMarker duration="0" type="t" when="3496">
+<TimeMarker duration="0" type="t" when="3546">
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
@@ -191,7 +191,22 @@
 <TriggerEvent arg="" cmd="ResetSequence" isOn="true"/>
 </T_Event>
 </TimeMarker>
-<TimeMarker duration="0" type="t" when="4092">
+<TimeMarker duration="0" type="t" when="3865">
+<T_Event>
+<TriggerEvent arg="audio/cupboard-close.mp3" cmd="PlaySound" isOn="true"/>
+<TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
+<TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
+<TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
+<TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
+<TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
+<TriggerEvent arg="0.2" cmd="SetAnimSpeed" isOn="false"/>
+<TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
+<TriggerEvent arg="" cmd="Dinner" isOn="false"/>
+<TriggerEvent arg="" cmd="Option" isOn="false"/>
+<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
+</T_Event>
+</TimeMarker>
+<TimeMarker duration="0" type="t" when="4172">
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
