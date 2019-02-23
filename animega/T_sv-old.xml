@@ -3,27 +3,27 @@
   <object class="java.util.HashMap">
     <void method="put">
       <string>Create</string>
-      <string>Create</string>
+      <string>Skapa</string>
     </void>
     <void method="put">
       <string>Test</string>
-      <string>Test</string>
+      <string>Testa</string>
     </void>
     <void method="put">
       <string>Student Mode</string>
-      <string>Student Mode</string>
+      <string>Elevläge</string>
     </void>
     <void method="put">
       <string>Back</string>
-      <string>Back</string>
+      <string>Bakåt</string>
     </void>
     <void method="put">
       <string>Go to student mode</string>
-      <string>Go to student mode</string>
+      <string>Till Elevläge</string>
     </void>
     <void method="put">
       <string>Teacher Mode</string>
-      <string>Teacher Mode</string>
+      <string>Lärarläge</string>
     </void>
     <void method="put">
       <string>User name</string>
@@ -400,86 +400,6 @@
     <void method="put">
       <string>Your score</string>
       <string>Your score</string>
-    </void>
-    <void method="put">
-      <string> </string>
-      <string> </string>
-    </void>
-    <void method="put">
-      <string>SwitchSettings</string>
-      <string>SwitchSettings</string>
-    </void>
-    <void method="put">
-      <string>Touch Mode:</string>
-      <string>Touch Mode:</string>
-    </void>
-    <void method="put">
-      <string>Options:</string>
-      <string>Options:</string>
-    </void>
-    <void method="put">
-      <string>Hold time:</string>
-      <string>Hold time:</string>
-    </void>
-    <void method="put">
-      <string>Off</string>
-      <string>Off</string>
-    </void>
-    <void method="put">
-      <string>Fast (0.5s)</string>
-      <string>Fast (0.5s)</string>
-    </void>
-    <void method="put">
-      <string>Medium (1.0s)</string>
-      <string>Medium (1.0s)</string>
-    </void>
-    <void method="put">
-      <string>Slow (2.5s)</string>
-      <string>Slow (2.5s)</string>
-    </void>
-    <void method="put">
-      <string>Connect Multiple taps:</string>
-      <string>Connect Multiple taps:</string>
-    </void>
-    <void method="put">
-      <string>Fast (0.1s)</string>
-      <string>Fast (0.1s)</string>
-    </void>
-    <void method="put">
-      <string>Medium (0.3s)</string>
-      <string>Medium (0.3s)</string>
-    </void>
-    <void method="put">
-      <string>Slow (1.0s)</string>
-      <string>Slow (1.0s)</string>
-    </void>
-    <void method="put">
-      <string>Delay Between Selections:</string>
-      <string>Delay Between Selections:</string>
-    </void>
-    <void method="put">
-      <string>Fast (1.0s)</string>
-      <string>Fast (1.0s)</string>
-    </void>
-    <void method="put">
-      <string>Medium (2.0s)</string>
-      <string>Medium (2.0s)</string>
-    </void>
-    <void method="put">
-      <string>Slow (3.0s)</string>
-      <string>Slow (3.0s)</string>
-    </void>
-    <void method="put">
-      <string>On</string>
-      <string>On</string>
-    </void>
-    <void method="put">
-      <string>Teacher mode passcode</string>
-      <string>Teacher mode passcode</string>
-    </void>
-    <void method="put">
-      <string>Enabled</string>
-      <string>Enabled</string>
     </void>
   </object>
 </java>

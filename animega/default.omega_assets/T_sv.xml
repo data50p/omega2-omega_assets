@@ -3,27 +3,27 @@
   <object class="java.util.HashMap">
     <void method="put">
       <string>Create</string>
-      <string>Create</string>
+      <string>Skapa</string>
     </void>
     <void method="put">
       <string>Test</string>
-      <string>Test</string>
+      <string>Testa</string>
     </void>
     <void method="put">
       <string>Student Mode</string>
-      <string>Student Mode</string>
+      <string>Elevläge</string>
     </void>
     <void method="put">
       <string>Back</string>
-      <string>Back</string>
+      <string>Bakåt</string>
     </void>
     <void method="put">
       <string>Go to student mode</string>
-      <string>Go to student mode</string>
+      <string>Till Elevläge</string>
     </void>
     <void method="put">
       <string>Teacher Mode</string>
-      <string>Teacher Mode</string>
+      <string>Lärarläge</string>
     </void>
     <void method="put">
       <string>User name</string>
@@ -323,19 +323,19 @@
     </void>
     <void method="put">
       <string>Select level</string>
-      <string>Select level</string>
+      <string>Välj nivå</string>
     </void>
     <void method="put">
       <string>Choose task</string>
-      <string>Choose task</string>
+      <string>Välj uppgift</string>
     </void>
     <void method="put">
       <string>Results &amp; Tests</string>
-      <string>Results &amp; Tests</string>
+      <string>Resultat &amp; Test</string>
     </void>
     <void method="put">
       <string>Teacher Tests</string>
-      <string>Teacher Tests</string>
+      <string>Lärartest</string>
     </void>
     <void method="put">
       <string>Student settings</string>

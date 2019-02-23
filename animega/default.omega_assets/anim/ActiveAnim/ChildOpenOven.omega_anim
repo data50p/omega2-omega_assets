@@ -22,7 +22,7 @@
 <AllActors>
 <Actor hotspot_begin="0.45 0.95" hotspot_end="0.45 0.95" hotspot_rotate="0.5 0.5" lesson_id="girl" name="actor/DA/girl/girl.png" nid="0" prim_mirror="1" prim_scale="0.78" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" lesson_id="oven" name="actor/Things/oven.png" nid="1" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
-<Actor hotspot_begin="0.486 0.84" hotspot_end="0.486 0.84" hotspot_rotate="0.5 0.5" lesson_id="boy" name="actor/DA/boy/boy.png" nid="2" prim_mirror="1" prim_scale="0.78" var1="" var2="" var3=""/>
+<Actor hotspot_begin="0.486 0.82" hotspot_end="0.486 0.82" hotspot_rotate="0.5 0.5" lesson_id="boy" name="actor/DA/boy/boy.png" nid="2" prim_mirror="1" prim_scale="0.78" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_3.gif" nid="3" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_4.gif" nid="4" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_5.gif" nid="5" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
@@ -82,7 +82,7 @@
 <TriggerEvent arg="" cmd="ResetSequence" isOn="true"/>
 </T_Event>
 </TimeMarker>
-<TimeMarker duration="0" type="t" when="4249">
+<TimeMarker duration="0" type="t" when="4169">
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
@@ -176,7 +176,7 @@
 </TimeMarker>
 <TimeMarker duration="0" type="t" when="2895">
 <T_Event>
-<TriggerEvent arg="audio/drawer_open.mp3" cmd="PlaySound" isOn="true"/>
+<TriggerEvent arg="audio/oven_open.mp3" cmd="PlaySound" isOn="true"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
