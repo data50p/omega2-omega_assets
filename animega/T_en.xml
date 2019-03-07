@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <java version="1.4.2_03" class="java.beans.xmlDecoder">
   <object class="java.util.HashMap">
     <void method="put">
@@ -402,10 +402,6 @@
       <string>Your score</string>
     </void>
     <void method="put">
-      <string> </string>
-      <string> </string>
-    </void>
-    <void method="put">
       <string>SwitchSettings</string>
       <string>SwitchSettings</string>
     </void>
@@ -480,6 +476,118 @@
     <void method="put">
       <string>Enabled</string>
       <string>Enabled</string>
+    </void>
+    <void method="put">
+      <string>Go to Teacher mode</string>
+      <string>Go to Teacher mode</string>
+    </void>
+    <void method="put">
+      <string>Select</string>
+      <string>Select</string>
+    </void>
+    <void method="put">
+      <string>Interrupted test</string>
+      <string>Interrupted test</string>
+    </void>
+    <void method="put">
+      <string>Create New Student</string>
+      <string>Create New Student</string>
+    </void>
+    <void method="put">
+      <string>Edit Profile</string>
+      <string>Edit Profile</string>
+    </void>
+    <void method="put">
+      <string>Change Student</string>
+      <string>Change Student</string>
+    </void>
+    <void method="put">
+      <string>English</string>
+      <string>English</string>
+    </void>
+    <void method="put">
+      <string>Norwegian (bokmål)</string>
+      <string>Norwegian (bokmål)</string>
+    </void>
+    <void method="put">
+      <string>Norwegian (nynorsk)</string>
+      <string>Norwegian (nynorsk)</string>
+    </void>
+    <void method="put">
+      <string>Swedish</string>
+      <string>Swedish</string>
+    </void>
+    <void method="put">
+      <string>Touch</string>
+      <string>Touch</string>
+    </void>
+    <void method="put">
+      <string>Switch</string>
+      <string>Switch</string>
+    </void>
+    <void method="put">
+      <string>Touch Enter</string>
+      <string>Touch Enter</string>
+    </void>
+    <void method="put">
+      <string>Touch Exit</string>
+      <string>Touch Exit</string>
+    </void>
+    <void method="put">
+      <string>Select teacher test type</string>
+      <string>Select teacher test type</string>
+    </void>
+    <void method="put">
+      <string>Pre-test</string>
+      <string>Pre-test</string>
+    </void>
+    <void method="put">
+      <string>Post-test</string>
+      <string>Post-test</string>
+    </void>
+    <void method="put">
+      <string>Pre-test-info</string>
+      <string>Pre-tests only contain words appearing in the Student mode tasks.</string>
+    </void>
+    <void method="put">
+      <string>Post-test-info</string>
+      <string>Post-tests contain additional distraction words as an additional challenge for the students’ decoding skills.</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-bracket</string>
+      <string>(... then select level and task ...)</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-info1</string>
+      <string>These Teacher tests may typically be used to assess preconditions before, and results after, specific interventions - with Animega-is and/or other material.</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-info2</string>
+      <string>If so, perform a first Pre-test well before, and a second one just before the intervention to establish a baseline for the students.</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-info3</string>
+      <string>Apply a first Post-test at the end of the intervention, and a second one some months later, to assess immediate and sustained effects of the intervention.</string>
+    </void>
+    <void method="put">
+      <string>Correct_Words_Header</string>
+      <string>CW</string>
+    </void>
+    <void method="put">
+      <string>Norwegian (Bokmål)</string>
+      <string>Norwegian (Bokmål)</string>
+    </void>
+    <void method="put">
+      <string>Norwegian (Nynorsk)</string>
+      <string>Norwegian (Nynorsk)</string>
+    </void>
+    <void method="put">
+      <string> </string>
+      <string> </string>
+    </void>
+    <void method="put">
+      <string>Bakåt</string>
+      <string>Bakåt</string>
     </void>
   </object>
 </java>
