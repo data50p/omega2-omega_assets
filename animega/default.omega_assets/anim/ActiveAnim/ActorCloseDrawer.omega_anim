@@ -8,8 +8,8 @@
 </Canvas>
 <AllPath>
 <TPath nid="0">
-<q ord="0" p1="567.7891845703125,806.985595703125" p2="567.0,805.0" pc="568.7138671875,805.1361083984375"/>
-<help len="0.0;1.445646971908433;2.6414762520654014" seg="567.7891845703125,806.985595703125;568.0542297363281,805.564453125;567.0,805.0"/>
+<q ord="0" p1="545.7891845703125,785.985595703125" p2="545.0,784.0" pc="546.7138671875,784.1361083984375"/>
+<help len="0.0;1.445646971908433;2.6414762520654014" seg="545.7891845703125,785.985595703125;546.0542297363281,784.564453125;545.0,784.0"/>
 <info flatness="1.5" size="3"/>
 </TPath>
 <TPath nid="1">
@@ -23,7 +23,7 @@
 <Actor hotspot_begin="0.54 0.94" hotspot_end="0.54 0.94" hotspot_rotate="0.495 0.5" lesson_id="woman" name="actor/DA/woman/woman.png" nid="0" prim_mirror="1" prim_scale="0.81" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" lesson_id="drawer" name="actor/Things/drawer.png" nid="1" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5579999999999999 0.9" hotspot_end="0.5579999999999999 0.9" hotspot_rotate="0.5 0.5" lesson_id="man" name="actor/DA/man/man.png" nid="2" prim_mirror="1" prim_scale="0.81" var1="" var2="" var3=""/>
-<Actor hotspot_begin="0.621 0.94" hotspot_end="0.621 0.94" hotspot_rotate="0.5 0.5" lesson_id="robot" name="actor/DA/robot/robot.png" nid="3" prim_mirror="1" prim_scale="1.1" var1="" var2="" var3=""/>
+<Actor hotspot_begin="0.5579999999999999 0.92" hotspot_end="0.5579999999999999 0.92" hotspot_rotate="0.5 0.5" lesson_id="robot" name="actor/DA/robot/robot.png" nid="3" prim_mirror="1" prim_scale="0.9" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.486 0.84" hotspot_end="0.486 0.84" hotspot_rotate="0.5 0.5" lesson_id="boy" name="actor/DA/boy/boy.png" nid="4" prim_mirror="1" prim_scale="0.78" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.45 0.95" hotspot_end="0.45 0.95" hotspot_rotate="0.5 0.5" lesson_id="girl" name="actor/DA/girl/girl.png" nid="5" prim_mirror="1" prim_scale="0.78" var1="" var2="" var3=""/>
 <Actor hotspot_begin="0.5 0.5" hotspot_end="0.5 0.5" hotspot_rotate="0.5 0.5" name="default/default_actor_6.gif" nid="6" prim_mirror="0" prim_scale="1.0" var1="" var2="" var3=""/>
@@ -67,12 +67,12 @@
 <TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
-<TimeMarker duration="0" type="t" when="1523">
+<TimeMarker duration="0" type="t" when="1943">
 <T_Event>
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="close1" cmd="ImageAttrib" isOn="true"/>
+<TriggerEvent arg="closeLow" cmd="ImageAttrib" isOn="true"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
 <TriggerEvent arg="0.22" cmd="SetAnimSpeed" isOn="true"/>
@@ -87,7 +87,7 @@
 <TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="close1Stop" cmd="ImageAttrib" isOn="true"/>
+<TriggerEvent arg="closeLowStop" cmd="ImageAttrib" isOn="true"/>
 <TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
 <TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
 <TriggerEvent arg="0.2" cmd="SetAnimSpeed" isOn="false"/>

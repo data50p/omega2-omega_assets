@@ -25,7 +25,7 @@
 <item action-fname="anim/ActiveAnim/ActorLift" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="lyfter" tts="" var-1=",B" var-2=",box" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/InSchoolyard" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-sv/jumps.mp3" text="hoppar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/CarryRockOnRock" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-sv/carries.mp3" text="bär" tts="" var-1=",B" var-2=",stone" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/Stories/L3/L3-4town" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-sv/cycles.mp3" text="cyklar" tts="" var-1="" var-2="Rides" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/Stories/L3/L3-4beach" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-sv/cycles.mp3" text="cyklar" tts="" var-1="" var-2="Rides" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
