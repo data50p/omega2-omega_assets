@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE omega >
 
-<omega class="Animation" version="0.0">
+<omega class="Animation" version="0.1">
 <AnimCanvas>
 <Canvas>
 <background height="601" name="background/Beech.jpg" width="798"/>
@@ -10,6 +10,8 @@
 <TPath nid="0">
 <q ord="0" p1="-130.5,425.0" p2="371.5,479.0" pc="180.49899291992188,424.61553955078125"/>
 <q ord="1" p1="371.5,479.0" p2="961.3956298828125,508.9168701171875" pc="558.5,517.0"/>
+<help len="0.0;75.87858236508025;148.04574697172467;216.54846772336685;281.44167669610255;342.7900027414604;400.6699505968502;455.1726325153069;506.4071816618838;557.2937190062185;614.6355239174661;678.5253526889544;749.0301225475099;826.199544260731;910.0714790463633;1098.029405134731" seg="-130.5,425.0;-54.62522029876709,425.7596492767334;17.499622344970703,428.23082733154297;85.87452793121338,432.4135341644287;150.49949645996094,438.3077697753906;211.37452793121338,445.9135341644287;268.4996223449707,455.23082733154297;321.8747797012329,466.2596492767334;371.5,479.0;421.62336921691895,487.77995109558105;478.4934768676758,495.1198043823242;542.1103229522705,501.0195598602295;612.4739074707031,505.4792175292969;689.5842304229736,508.49877738952637;773.441291809082,510.07823944091797;961.3956298828125,508.9168701171875"/>
+<info flatness="1.5" size="16"/>
 </TPath>
 </AllPath>
 <lesson verb="jagar"/>
@@ -43,6 +45,7 @@
 <TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
 <TriggerEvent arg="" cmd="Dinner" isOn="false"/>
 <TriggerEvent arg="" cmd="Option" isOn="false"/>
+<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
 <TimeMarker duration="0" type="[" when="0">
@@ -57,6 +60,7 @@
 <TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
 <TriggerEvent arg="" cmd="Dinner" isOn="false"/>
 <TriggerEvent arg="" cmd="Option" isOn="false"/>
+<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
 <TimeMarker duration="0" type="t" when="79">
@@ -71,6 +75,7 @@
 <TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
 <TriggerEvent arg="" cmd="Dinner" isOn="false"/>
 <TriggerEvent arg="" cmd="Option" isOn="false"/>
+<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
 <TimeMarker duration="0" type="]" when="5990">
@@ -85,6 +90,7 @@
 <TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
 <TriggerEvent arg="" cmd="Dinner" isOn="false"/>
 <TriggerEvent arg="" cmd="Option" isOn="false"/>
+<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
 <TimeMarker duration="0" type="}" when="6399">
@@ -99,6 +105,7 @@
 <TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
 <TriggerEvent arg="" cmd="Dinner" isOn="false"/>
 <TriggerEvent arg="" cmd="Option" isOn="false"/>
+<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
 </TimeLine>
