@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <java version="1.4.2_03" class="java.beans.xmlDecoder">
   <object class="java.util.HashMap">
     <void method="put">
@@ -18,6 +18,34 @@
       <string>Back</string>
     </void>
     <void method="put">
+      <string>Replay</string>
+      <string>Replay</string>
+    </void>
+    <void method="put">
+      <string>Replay/Scene</string>
+      <string>Replay/Scene</string>
+    </void>
+    <void method="put">
+      <string>Replay/Speech</string>
+      <string>Replay/Speech</string>
+    </void>
+    <void method="put">
+      <string>Select level</string>
+      <string>Select level</string>
+    </void>
+    <void method="put">
+      <string>Choose task</string>
+      <string>Choose task</string>
+    </void>
+    <void method="put">
+      <string>Go to Teacher mode</string>
+      <string>Go to Teacher mode</string>
+    </void>
+    <void method="put">
+      <string></string>
+      <string></string>
+    </void>
+     <void method="put">
       <string>Go to student mode</string>
       <string>Go to student mode</string>
     </void>
@@ -96,6 +124,18 @@
     <void method="put">
       <string>Words % correct</string>
       <string>Words % correct</string>
+    </void>
+    <void method="put">
+      <string>Sentences</string>
+      <string>Sentences</string>
+    </void>
+    <void method="put">
+      <string>Words</string>
+      <string>Words</string>
+    </void>
+    <void method="put">
+      <string>correct</string>
+      <string>correct</string>
     </void>
     <void method="put">
       <string>Time correct sentence</string>
@@ -126,6 +166,10 @@
       <string>%CS</string>
     </void>
     <void method="put">
+      <string>Correct_Words_Header</string>
+      <string>CW</string>
+    </void>
+    <void method="put">
       <string>Right_Words_Header</string>
       <string>CW</string>
     </void>
@@ -154,6 +198,10 @@
       <string>ST</string>
     </void>
     <void method="put">
+      <string>POS_Header</string>
+      <string>POS</string>
+    </void>
+    <void method="put">
       <string>Export list</string>
       <string>Export list</string>
     </void>
@@ -170,6 +218,50 @@
       <string>s</string>
     </void>
     <void method="put">
+      <string>Abbreviations (Test):</string>
+      <string>Abbreviations (Test):</string>
+    </void>
+    <void method="put">
+      <string>Correct Sentences</string>
+      <string>Correct Sentences</string>
+    </void>
+    <void method="put">
+      <string>Correct Words</string>
+      <string>Correct Words</string>
+    </void>
+    <void method="put">
+      <string>Session Length</string>
+      <string>Session Length</string>
+    </void>
+    <void method="put">
+      <string>Part Of Speech</string>
+      <string>Part Of Speech</string>
+    </void>
+    <void method="put">
+      <string>Abbreviations (Create):</string>
+      <string>Abbreviations (Create):</string>
+    </void>
+    <void method="put">
+      <string>Correct Sentence</string>
+      <string>Correct Sentence</string>
+    </void>
+    <void method="put">
+      <string>Correct Words</string>
+      <string>Correct Words</string>
+    </void>
+    <void method="put">
+      <string>Incorrect Words</string>
+      <string>Incorrect Words</string>
+    </void>
+    <void method="put">
+      <string>Number of sentences</string>
+      <string>Number of sentences</string>
+    </void>
+    <void method="put">
+      <string>Number of words</string>
+      <string>Number of words</string>
+    </void>
+    <void method="put">
       <string>Default text</string>
       <string>Default text</string>
     </void>
@@ -294,6 +386,10 @@
       <string>Set</string>
     </void>
     <void method="put">
+      <string>Select Student</string>
+      <string>Select Student</string>
+    </void>
+    <void method="put">
       <string>Delete Student</string>
       <string>Delete Student</string>
     </void>
@@ -308,26 +404,6 @@
     <void method="put">
       <string>Create profile</string>
       <string>Create profile</string>
-    </void>
-    <void method="put">
-      <string>Replay/Scene</string>
-      <string>Replay/Scene</string>
-    </void>
-    <void method="put">
-      <string>Replay/Speech</string>
-      <string>Replay/Speech</string>
-    </void>
-    <void method="put">
-      <string></string>
-      <string></string>
-    </void>
-    <void method="put">
-      <string>Select level</string>
-      <string>Select level</string>
-    </void>
-    <void method="put">
-      <string>Choose task</string>
-      <string>Choose task</string>
     </void>
     <void method="put">
       <string>Results &amp; Tests</string>
@@ -386,12 +462,12 @@
       <string>Teacher Test</string>
     </void>
     <void method="put">
-      <string>POS_Header</string>
-      <string>POS</string>
+      <string>to go</string>
+      <string>to go</string>
     </void>
     <void method="put">
-      <string>to go</string>
-      <string>to go</string>
+      <string>Next</string>
+      <string>Next</string>
     </void>
     <void method="put">
       <string>Result</string>
@@ -478,10 +554,6 @@
       <string>Enabled</string>
     </void>
     <void method="put">
-      <string>Go to Teacher mode</string>
-      <string>Go to Teacher mode</string>
-    </void>
-    <void method="put">
       <string>Select</string>
       <string>Select</string>
     </void>
@@ -502,28 +574,16 @@
       <string>Change Student</string>
     </void>
     <void method="put">
-      <string>English</string>
-      <string>English</string>
-    </void>
-    <void method="put">
-      <string>Norwegian (bokmål)</string>
-      <string>Norwegian (bokmål)</string>
-    </void>
-    <void method="put">
-      <string>Norwegian (nynorsk)</string>
-      <string>Norwegian (nynorsk)</string>
-    </void>
-    <void method="put">
-      <string>Swedish</string>
-      <string>Swedish</string>
-    </void>
-    <void method="put">
       <string>Touch</string>
       <string>Touch</string>
     </void>
     <void method="put">
       <string>Switch</string>
       <string>Switch</string>
+    </void>
+    <void method="put">
+      <string>Key/Switch</string>
+      <string>Key/Switch</string>
     </void>
     <void method="put">
       <string>Touch Enter</string>
@@ -551,7 +611,7 @@
     </void>
     <void method="put">
       <string>Post-test-info</string>
-      <string>Post-tests contain additional distraction words as an additional challenge for the students’ decoding skills.</string>
+      <string>Post-tests contain additional distraction words as an additional challenge for the studentsâ decoding skills.</string>
     </void>
     <void method="put">
       <string>Teacher-test-bracket</string>
@@ -570,8 +630,12 @@
       <string>Apply a first Post-test at the end of the intervention, and a second one some months later, to assess immediate and sustained effects of the intervention.</string>
     </void>
     <void method="put">
-      <string>Correct_Words_Header</string>
-      <string>CW</string>
+      <string>English</string>
+      <string>English</string>
+    </void>
+    <void method="put">
+      <string>Swedish</string>
+      <string>Swedish</string>
     </void>
     <void method="put">
       <string>Norwegian (Bokmål)</string>
@@ -584,10 +648,6 @@
     <void method="put">
       <string> </string>
       <string> </string>
-    </void>
-    <void method="put">
-      <string>Bakåt</string>
-      <string>Bakåt</string>
     </void>
   </object>
 </java>

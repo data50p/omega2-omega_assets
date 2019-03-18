@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <java version="1.4.2_03" class="java.beans.xmlDecoder">
   <object class="java.util.HashMap">
     <void method="put">
@@ -16,6 +16,10 @@
     <void method="put">
       <string>Back</string>
       <string>Bakåt</string>
+    </void>
+    <void method="put">
+      <string>Replay</string>
+      <string>Upprepa</string>
     </void>
     <void method="put">
       <string>Replay/Scene</string>
@@ -122,6 +126,18 @@
       <string>Ord % rätt</string>
     </void>
     <void method="put">
+      <string>Sentences</string>
+      <string>Meningar</string>
+    </void>
+    <void method="put">
+      <string>Words</string>
+      <string>Ord</string>
+    </void>
+    <void method="put">
+      <string>correct</string>
+      <string>rätt</string>
+    </void>
+    <void method="put">
       <string>Time correct sentence</string>
       <string>Tid rätt mening</string>
     </void>
@@ -148,6 +164,10 @@
     <void method="put">
       <string>Percent_Right_Sentences_Header</string>
       <string>%RM</string>
+    </void>
+    <void method="put">
+      <string>Correct_Words_Header</string>
+      <string>RO</string>
     </void>
     <void method="put">
       <string>Right_Words_Header</string>
@@ -178,6 +198,10 @@
       <string>TM</string>
     </void>
     <void method="put">
+      <string>POS_Header</string>
+      <string>Satsdel</string>
+    </void>
+    <void method="put">
       <string>Export list</string>
       <string>Exportera lista</string>
     </void>
@@ -192,6 +216,50 @@
     <void method="put">
       <string>seconds_abbrev</string>
       <string>s</string>
+    </void>
+    <void method="put">
+      <string>Abbreviations (Test):</string>
+      <string>Förkortningar (Testa):</string>
+    </void>
+    <void method="put">
+      <string>Correct Sentences</string>
+      <string>Rätta Meningar</string>
+    </void>
+    <void method="put">
+      <string>Correct Words</string>
+      <string>Rätta Ord</string>
+    </void>
+    <void method="put">
+      <string>Session Length</string>
+      <string>Sessionslängd</string>
+    </void>
+    <void method="put">
+      <string>Part Of Speech</string>
+      <string>Satsdel</string>
+    </void>
+    <void method="put">
+      <string>Abbreviations (Create):</string>
+      <string>Förkortningar (Skapa):</string>
+    </void>
+    <void method="put">
+      <string>Correct Sentence</string>
+      <string>Rätt Mening</string>
+    </void>
+    <void method="put">
+      <string>Correct Words</string>
+      <string>Rätta Ord</string>
+    </void>
+    <void method="put">
+      <string>Incorrect Words</string>
+      <string>Fel Ord</string>
+    </void>
+    <void method="put">
+      <string>Number of sentences</string>
+      <string>Antal Meningar</string>
+    </void>
+    <void method="put">
+      <string>Number of words</string>
+      <string>Antal Ord</string>
     </void>
     <void method="put">
       <string>Default text</string>
@@ -318,6 +386,10 @@
       <string>Välj</string>
     </void>
     <void method="put">
+      <string>Select Student</string>
+      <string>Välj elev</string>
+    </void>
+    <void method="put">
       <string>Delete Student</string>
       <string>Radera elev</string>
     </void>
@@ -390,12 +462,12 @@
       <string>Lärartest</string>
     </void>
     <void method="put">
-      <string>POS_Header</string>
-      <string>Satsdel</string>
-    </void>
-    <void method="put">
       <string>to go</string>
       <string>kvar</string>
+    </void>
+    <void method="put">
+      <string>Next</string>
+      <string>Nästa</string>
     </void>
     <void method="put">
       <string>Result</string>
@@ -407,7 +479,7 @@
     </void>
     <void method="put">
       <string>SwitchSettings</string>
-      <string>Inställningar</string>
+      <string>Alternativ</string>
     </void>
     <void method="put">
       <string>Touch Mode:</string>
@@ -502,27 +574,15 @@
       <string>Byta elev</string>
     </void>
     <void method="put">
-      <string>Engelska</string>
-      <string></string>
-    </void>
-    <void method="put">
-      <string>Norska (bokmål)</string>
-      <string></string>
-    </void>
-    <void method="put">
-      <string>Norska (nynorsk)</string>
-      <string></string>
-    </void>
-    <void method="put">
-      <string>Svenska</string>
-      <string></string>
-    </void>
-    <void method="put">
       <string>Touch</string>
       <string>Pekskärm</string>
     </void>
     <void method="put">
       <string>Switch</string>
+      <string>Tangent-kontakt</string>
+    </void>
+    <void method="put">
+      <string>Key/Switch</string>
       <string>Tangent-kontakt</string>
     </void>
     <void method="put">
@@ -559,7 +619,7 @@
     </void>
     <void method="put">
       <string>Teacher-test-info1</string>
-      <string>Dessa lärartest kan lämpligen användas för att bedöma förutssätningar före, och resultat efter, särskilda insatser - med Animega-is och/eller annat material.</string>
+      <string>Dessa lärartest kan lämpligen användas för att bedöma förutsättningar före, och resultat efter, särskilda insatser - med Animega-is och/eller annat material.</string>
     </void>
     <void method="put">
       <string>Teacher-test-info2</string>
@@ -570,32 +630,24 @@
       <string>Ett första efter-test kan sedan göras vid slutet av insatsen, och ett andra några månader senare, för att bedöma omedelbara och kvarstående effekter av insatsen.</string>
     </void>
     <void method="put">
-      <string>Correct_Words_Header</string>
-      <string>RO</string>
-    </void>
-    <void method="put">
       <string>English</string>
-      <string></string>
+      <string>Engelska</string>
     </void>
     <void method="put">
       <string>Norwegian (Bokmål)</string>
-      <string></string>
+      <string>Norska (bokmål)</string>
     </void>
     <void method="put">
       <string>Norwegian (Nynorsk)</string>
-      <string></string>
+      <string>Norska (nynorsk)</string>
     </void>
     <void method="put">
       <string>Swedish</string>
-      <string></string>
+      <string>Svenska</string>
     </void>
     <void method="put">
       <string> </string>
-      <string></string>
-    </void>
-    <void method="put">
-      <string>Bakåt</string>
-      <string></string>
+      <string> </string>
     </void>
   </object>
 </java>
