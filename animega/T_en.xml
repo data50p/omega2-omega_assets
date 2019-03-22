@@ -649,5 +649,29 @@
       <string> </string>
       <string> </string>
     </void>
+    <void method="put">
+      <string>Language for lessons</string>
+      <string>Language for tasks</string>
+    </void>
+    <void method="put">
+      <string>System default</string>
+      <string>System default</string>
+    </void>
+    <void method="put">
+      <string>Tab</string>
+      <string>Tab</string>
+    </void>
+    <void method="put">
+      <string>Space</string>
+      <string>Space</string>
+    </void>
+    <void method="put">
+      <string>Enter</string>
+      <string>Enter</string>
+    </void>
+    <void method="put">
+      <string>Welcome to Animega-is</string>
+      <string>Welcome to Animega interactive sentences</string>
+    </void>
   </object>
 </java>
