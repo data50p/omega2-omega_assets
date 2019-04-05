@@ -45,7 +45,7 @@
       <string></string>
       <string></string>
     </void>
-     <void method="put">
+    <void method="put">
       <string>Go to student mode</string>
       <string>Go to student mode</string>
     </void>
@@ -246,10 +246,6 @@
       <string>Correct Sentence</string>
     </void>
     <void method="put">
-      <string>Correct Words</string>
-      <string>Correct Words</string>
-    </void>
-    <void method="put">
       <string>Incorrect Words</string>
       <string>Incorrect Words</string>
     </void>
@@ -356,10 +352,6 @@
     <void method="put">
       <string>Time</string>
       <string>Time</string>
-    </void>
-    <void method="put">
-      <string>Correct Sentence</string>
-      <string>Correct Sentence</string>
     </void>
     <void method="put">
       <string>&lt;&lt; Back</string>
@@ -646,10 +638,6 @@
       <string>Norwegian (Nynorsk)</string>
     </void>
     <void method="put">
-      <string> </string>
-      <string> </string>
-    </void>
-    <void method="put">
       <string>Language for lessons</string>
       <string>Language for tasks</string>
     </void>
@@ -672,6 +660,38 @@
     <void method="put">
       <string>Welcome to Animega-is</string>
       <string>Welcome to Animega interactive sentences</string>
+    </void>
+    <void method="put">
+      <string>CS</string>
+      <string>CS</string>
+    </void>
+    <void method="put">
+      <string>CW</string>
+      <string>CW</string>
+    </void>
+    <void method="put">
+      <string>SL</string>
+      <string>SL</string>
+    </void>
+    <void method="put">
+      <string>Escape</string>
+      <string>Escape</string>
+    </void>
+    <void method="put">
+      <string>Bakåt</string>
+      <string>Bakåt</string>
+    </void>
+    <void method="put">
+      <string>#S</string>
+      <string>#S</string>
+    </void>
+    <void method="put">
+      <string>#W</string>
+      <string>#W</string>
+    </void>
+    <void method="put">
+      <string> </string>
+      <string> </string>
     </void>
   </object>
 </java>

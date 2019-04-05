@@ -243,11 +243,7 @@
     </void>
     <void method="put">
       <string>Correct Sentence</string>
-      <string>Rätt Mening</string>
-    </void>
-    <void method="put">
-      <string>Correct Words</string>
-      <string>Rätta Ord</string>
+      <string>Rätt mening</string>
     </void>
     <void method="put">
       <string>Incorrect Words</string>
@@ -358,10 +354,6 @@
       <string>Tid</string>
     </void>
     <void method="put">
-      <string>Correct Sentence</string>
-      <string>Rätt mening</string>
-    </void>
-    <void method="put">
       <string>&lt;&lt; Back</string>
       <string>&lt;&lt; Tillbaka</string>
     </void>
@@ -386,7 +378,7 @@
       <string>Välj</string>
     </void>
     <void method="put">
-      <string>Select Student</string>
+      <string>Select student</string>
       <string>Välj elev</string>
     </void>
     <void method="put">
@@ -634,20 +626,16 @@
       <string>Engelska</string>
     </void>
     <void method="put">
+      <string>Swedish</string>
+      <string>Svenska</string>
+    </void>
+    <void method="put">
       <string>Norwegian (Bokmål)</string>
       <string>Norska (bokmål)</string>
     </void>
     <void method="put">
       <string>Norwegian (Nynorsk)</string>
       <string>Norska (nynorsk)</string>
-    </void>
-    <void method="put">
-      <string>Swedish</string>
-      <string>Svenska</string>
-    </void>
-    <void method="put">
-      <string> </string>
-      <string> </string>
     </void>
     <void method="put">
       <string>Language for lessons</string>
@@ -672,6 +660,38 @@
     <void method="put">
       <string>Welcome to Animega-is</string>
       <string>Välkommen till Animega interaktiv språklek</string>
+    </void>
+    <void method="put">
+      <string>CS</string>
+      <string>RM</string>
+    </void>
+    <void method="put">
+      <string>CW</string>
+      <string>RO</string>
+    </void>
+    <void method="put">
+      <string>SL</string>
+      <string>SL</string>
+    </void>
+    <void method="put">
+      <string>Escape</string>
+      <string></string>
+    </void>
+    <void method="put">
+      <string>Bakåt</string>
+      <string></string>
+    </void>
+    <void method="put">
+      <string>#S</string>
+      <string>#M</string>
+    </void>
+    <void method="put">
+      <string>#W</string>
+      <string>#O</string>
+    </void>
+    <void method="put">
+      <string> </string>
+      <string> </string>
     </void>
   </object>
 </java>

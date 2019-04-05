@@ -80,7 +80,7 @@
 <value key="The man greets the man at the bus stop" val="anim/ActiveVideo/meeting-greeting/BusStop/ManGreetManBus_stop.mp4"/>
 <value key="The woman hugs the girl in the street" val="anim/ActiveVideo/meeting-greeting/Street/WomanHugGirlStreet.mp4"/>
 <value key="The man hugs the woman at the station" val="anim/ActiveVideo/meeting-greeting/Train/ManHugWomanTrain.mp4"/>
-<value key="The girl greets the girl at the station" val="!off"/>
+<value key="The girl greets the girl at the station" val="anim/ActiveVideo/meeting-greeting/Train/GirlGreetGirlTrain.mp4"/>
 <value key="The woman says hello to the man at the station" val="anim/ActiveVideo/meeting-greeting/Train/ManHelloWomanTrain.mp4"/>
 <value key="The boy says hello to the girl in the street" val="anim/ActiveVideo/meeting-greeting/Street/GirlHelloBoyStreet.mp4"/>
 <value key="The boy greets the girl in the street" val="anim/ActiveVideo/meeting-greeting/Street/GirlGreetBoyStreet.mp4"/>
@@ -124,10 +124,10 @@
 <value key="The boy says hello to the man in the street" val="anim/ActiveVideo/meeting-greeting/Street/ManHelloBoyStreet.mp4"/>
 <value key="The boy hugs the girl at the station" val="anim/ActiveVideo/meeting-greeting/Train/GirlHugBoyTrain.mp4"/>
 <value key="The man hugs the girl at the bus stop" val="anim/ActiveVideo/meeting-greeting/BusStop/ManHugGirlBus_stop.mp4"/>
-<value key="The girl hugs the girl at the station" val="!off"/>
+<value key="The girl hugs the girl at the station" val="anim/ActiveVideo/meeting-greeting/Train/GirlHugGirlTrain.mp4"/>
 <value key="The girl greets the woman in the park" val="anim/ActiveVideo/meeting-greeting/Park/GirlGreetWomanPark.mp4"/>
 <value key="The woman says hello to the boy at the station" val="anim/ActiveVideo/meeting-greeting/Train/BoyHelloWomanTrain.mp4"/>
-<value key="The girl says hello to the girl at the station" val="!off"/>
+<value key="The girl says hello to the girl at the station" val="anim/ActiveVideo/meeting-greeting/Train/GirlHelloGirlTrain.mp4"/>
 <value key="The man greets the boy in the street" val="anim/ActiveVideo/meeting-greeting/Street/ManGreetBoyStreet.mp4"/>
 <value key="The man says hello to the woman at the bus stop" val="anim/ActiveVideo/meeting-greeting/BusStop/ManHelloWomanBus_stop.mp4"/>
 <value key="The man greets the boy at the station" val="anim/ActiveVideo/meeting-greeting/Train/ManGreetBoyTrain.mp4"/>

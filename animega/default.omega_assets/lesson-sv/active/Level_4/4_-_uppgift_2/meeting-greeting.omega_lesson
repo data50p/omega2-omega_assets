@@ -57,7 +57,7 @@
 
 <value key="Flickan hälsar på flickan i parken" val="anim/ActiveVideo/meeting-greeting/Park/GirlGreetGirlPark.mp4"/>
 <value key="Flickan hälsar på flickan på gatan" val="anim/ActiveVideo/meeting-greeting/Street/GirlGreetGirlStreet.mp4"/>
-<value key="Flickan hälsar på flickan på stationen" val="!off"/>
+<value key="Flickan hälsar på flickan på stationen" val="anim/ActiveVideo/meeting-greeting/Train/GirlGreetGirlTrain.mp4"/>
 <value key="Flickan hälsar på flickan vid busshållplatsen" val="anim/ActiveVideo/meeting-greeting/BusStop/GirlGreetGirlBus_stop.mp4"/>
 <value key="Flickan hälsar på kvinnan i parken" val="anim/ActiveVideo/meeting-greeting/Park/GirlGreetWomanPark.mp4"/>
 <value key="Flickan hälsar på kvinnan på gatan" val="anim/ActiveVideo/meeting-greeting/Street/WomanGreetGirlStreet.mp4"/>
@@ -73,7 +73,7 @@
 <value key="Flickan hälsar på pojken vid busshållplatsen" val="anim/ActiveVideo/meeting-greeting/BusStop/GirlGreetBoyBus_stop.mp4"/>
 <value key="Flickan kramar flickan i parken" val="anim/ActiveVideo/meeting-greeting/Park/GirlHugGirlPark.mp4"/>
 <value key="Flickan kramar flickan på gatan" val="anim/ActiveVideo/meeting-greeting/Street/GirlHugGirlStreet.mp4"/>
-<value key="Flickan kramar flickan på stationen" val="!off"/>
+<value key="Flickan kramar flickan på stationen" val="anim/ActiveVideo/meeting-greeting/Train/GirlHugGirlTrain.mp4"/>
 <value key="Flickan kramar flickan vid busshållplatsen" val="anim/ActiveVideo/meeting-greeting/BusStop/GirlHugGirlBus_stop.mp4"/>
 <value key="Flickan kramar kvinnan i parken" val="anim/ActiveVideo/meeting-greeting/Park/GirlHugWomanPark.mp4"/>
 <value key="Flickan kramar kvinnan på gatan" val="anim/ActiveVideo/meeting-greeting/Street/WomanHugGirlStreet.mp4"/>
@@ -89,7 +89,7 @@
 <value key="Flickan kramar pojken vid busshållplatsen" val="anim/ActiveVideo/meeting-greeting/BusStop/GirlHugBoyBus_stop.mp4"/>
 <value key="Flickan säger hej till flickan i parken" val="anim/ActiveVideo/meeting-greeting/Park/GirlHelloGirlPark.mp4"/>
 <value key="Flickan säger hej till flickan på gatan" val="anim/ActiveVideo/meeting-greeting/Street/GirlHelloGirlStreet.mp4"/>
-<value key="Flickan säger hej till flickan på stationen" val="!off"/>
+<value key="Flickan säger hej till flickan på stationen" val="anim/ActiveVideo/meeting-greeting/Train/GirlHelloGirlTrain.mp4"/>
 <value key="Flickan säger hej till flickan vid busshållplatsen" val="anim/ActiveVideo/meeting-greeting/BusStop/GirlHelloGirlBus_stop.mp4"/>
 <value key="Flickan säger hej till kvinnan i parken" val="anim/ActiveVideo/meeting-greeting/Park/GirlHelloWomanPark.mp4"/>
 <value key="Flickan säger hej till kvinnan på gatan" val="anim/ActiveVideo/meeting-greeting/Street/WomanHelloGirlStreet.mp4"/>
