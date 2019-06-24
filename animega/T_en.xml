@@ -690,6 +690,18 @@
       <string>#W</string>
     </void>
     <void method="put">
+      <string>Exit test?</string>
+      <string>Exit test?</string>
+    </void>
+    <void method="put">
+      <string>No</string>
+      <string>No</string>
+    </void>
+    <void method="put">
+      <string>Yes</string>
+      <string>Yes</string>
+    </void>
+    <void method="put">
       <string> </string>
       <string> </string>
     </void>

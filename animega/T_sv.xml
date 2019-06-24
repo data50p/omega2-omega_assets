@@ -675,7 +675,7 @@
     </void>
     <void method="put">
       <string>Escape</string>
-      <string></string>
+      <string>Escape</string>
     </void>
     <void method="put">
       <string>Bakåt</string>
@@ -688,6 +688,18 @@
     <void method="put">
       <string>#W</string>
       <string>#O</string>
+    </void>
+    <void method="put">
+      <string>Exit test?</string>
+      <string>Avbryt test?</string>
+    </void>
+    <void method="put">
+      <string>No</string>
+      <string>Nej</string>
+    </void>
+    <void method="put">
+      <string>Yes</string>
+      <string>Ja</string>
     </void>
     <void method="put">
       <string> </string>

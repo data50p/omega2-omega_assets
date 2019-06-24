@@ -16,7 +16,7 @@
 <item Lid="ball" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/car.wav" dummytext="Bilen" ord="3" sign="" sound="audio/words-sv/ball.wav" text="Bollen" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
 <item Lid="frog" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/dummy/crops.wav" dummytext="Grödan" ord="4" sign="" sound="audio/words-sv/frog.wav" text="Grodan" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
 <item Lid="cat" action-fname="" action-type="null" dummysign="" dummysound="audio/words-sv/hat.wav" dummytext="Hatten" ord="5" sign="" sound="audio/words-sv/cat.wav" text="Katten" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
-<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="apple" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-en/dummy/astronomer.mp3" dummytext="Astronomen" ord="6" sign="" sound="audio/words-sv/apple.mp3" text="Äpplet" tts="äpp-lett" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">

@@ -16,7 +16,7 @@
 <item Lid="actor 4" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/actor4.mp3" text="The larva" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/mouse.mp3" text="The mouse" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-en/squirrel.mp3" text="The squirrel" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="audio/words-en/bird.mp3" text="The woodpecker" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="audio/words-en/bird.mp3" text="The ape" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="audio/words-en/girl.mp3" text="The girl" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
@@ -33,7 +33,7 @@
 </lesson>
 <action_specific>
 <value key="The chamelion eats" val="anim/ActiveVideo/animalsEating/chameleonEating.mp4"/>
-<value key="The woodpecker eats" val="anim/ActiveVideo/animalsEating/woodpeckerEating.mp4"/>
+<value key="The ape eats" val="anim/ActiveVideo/animalsEating/apeEating.mp4"/>
 <value key="The bullfinch eats" val="anim/ActiveVideo/animalsEating/bullfinchEating.mp4"/>
 <value key="The mouse eats" val="anim/ActiveVideo/animalsEating/mouseEating.mp4"/>
 <value key="The squirrel eats" val="anim/ActiveVideo/animalsEating/squirrelEating.mp4"/>

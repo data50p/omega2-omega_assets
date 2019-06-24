@@ -1,37 +1,38 @@
-<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE omega_lesson >
 
 <omega_lesson version="0.0">
 <lesson_canvas color_bg_b="#8cdcf0" color_bg_fr="#0" color_bg_frbg="#ffff66" color_bg_m="#d2b4dc" color_bg_t="#f0dc8c" color_bg_tx="#0" color_bt_bg="#f0dc8c" color_bt_fr="#0" color_bt_fr_hi="#0" color_bt_fr_hs="#ff0000" color_bt_hi="#ffffcc" color_bt_hs="#ffff33" color_bt_tx="#0" color_bt_tx_hi="#0" color_bt_tx_hs="#0" color_sn_bg="#ffff66" color_sn_fr="#0" color_sn_hi="#ff9933" color_sn_tx="#0" show_wordbox="true"/>
 <lesson name="abc" ord="0">
 <target>
-<t-item Lid="A" Tid="s" ord="0" type="actor"/>
+<t-item Lid="A" Tid="s" ord="0" type="passive"/>
 <t-item Lid="" Tid="v" ord="1" type="action"/>
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="dog" dummysound="audio/words-en/dummy/log.wav" dummytext="the log" ord="0" sound="audio/words-en/dog.wav" text="the dog" var-1="n" var-2="" var-3=""/>
-<item Lid="banana" dummysound="audio/words-en/dummy/bean.wav" dummytext="the bean" ord="1" sound="audio/words-en/banana.wav" text="the banana" var-1="n" var-2="" var-3=""/>
-<item Lid="mouse" dummysound="audio/words-en/house.wav" dummytext="the house" ord="2" sound="audio/words-en/mouse.wav" text="the mouse" var-1="n" var-2="" var-3=""/>
-<item Lid="ball" dummysound="audio/words-en/boy.wav" dummytext="the boy" ord="3" sound="audio/words-en/ball.wav" text="the ball" var-1="null" var-2="null" var-3="null"/>
-<item Lid="frog" dummysound="audio/words-en/dummy/fig.wav" dummytext="the fig" ord="4" sound="audio/words-en/frog.wav" text="the frog" var-1="null" var-2="null" var-3="null"/>
-<item Lid="cat" dummysound="audio/words-en/dummy/bat.wav" dummytext="the bat" ord="5" sound="audio/words-en/cat.wav" text="the cat" var-1="null" var-2="null" var-3="null"/>
-<item dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item Lid="dog" action-fname="" action-type="null" dummysign="" dummysound="audio/words-en/dummy/log.wav" dummytext="The log" ord="0" sign="" sound="audio/words-en/dog.wav" text="The dog" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="banana" action-fname="" action-type="null" dummysign="" dummysound="audio/words-en/dummy/bean.wav" dummytext="The bean" ord="1" sign="" sound="audio/words-en/banana.wav" text="The banana" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="mouse" action-fname="" action-type="null" dummysign="" dummysound="audio/words-en/house.wav" dummytext="The house" ord="2" sign="" sound="audio/words-en/mouse.wav" text="The mouse" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="ball" action-fname="" action-type="null" dummysign="" dummysound="audio/words-en/boy.wav" dummytext="The boy" ord="3" sign="" sound="audio/words-en/ball.wav" text="The ball" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="frog" action-fname="" action-type="null" dummysign="" dummysound="audio/words-en/dummy/fig.wav" dummytext="The fig" ord="4" sign="" sound="audio/words-en/frog.wav" text="The frog" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="cat" action-fname="" action-type="null" dummysign="" dummysound="audio/words-en/dummy/bat.wav" dummytext="The bat" ord="5" sign="" sound="audio/words-en/cat.wav" text="The cat" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="apple" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-en/dummy/table.mp3" dummytext="The table" ord="6" sign="" sound="audio/words-en/apple.mp3" text="The apple" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/RollingInMeadow" action-type="omega_anim" dummysound="" dummytext="" ord="0" sound="audio/words-en/rolls.wav" text="rolls" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/BouncingInMat" action-type="omega_anim" dummysound="" dummytext="" ord="1" sound="audio/words-en/bounces.wav" text="bounces" var-1="" var-2="" var-3=""/>
-<item action-fname="anim/ActiveAnim/GrowingInMeadow" action-type="omega_anim" dummysound="" dummytext="" ord="2" sound="audio/words-en/grows.wav" text="grows" var-1="null" var-2="null" var-3="null"/>
-<item action-fname="anim/ActiveAnim/FlyPlane" action-type="omega_anim" dummysound="" dummytext="" ord="3" sound="audio/words-en/flies.wav" text="flies" var-1="null" var-2="null" var-3="null"/>
-<item action-fname="anim/ActiveAnim/SleepingInGrassByTree" action-type="omega_anim" dummysound="" dummytext="" ord="4" sound="audio/words-en/snores.wav" text="snores" var-1="null" var-2="null" var-3="null"/>
-<item action-fname="anim/ActiveAnim/SingingInRoomByWindow" action-type="omega_anim" dummysound="" dummytext="" ord="5" sound="audio/words-en/sings.wav" text="sings" var-1="null" var-2="null" var-3="null"/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="6" sound="" text="" var-1="" var-2="" var-3=""/>
-<item action-fname="" action-type="" dummysound="" dummytext="" ord="7" sound="" text="" var-1="" var-2="" var-3=""/>
+<item action-fname="anim/ActiveAnim/RollingInMeadow" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/rolls.wav" text="rolls" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/BouncingInMat" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/bounces.wav" text="bounces" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/GrowingInMeadow" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-en/grows.wav" text="grows" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/FlyPlane" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/flies.wav" text="flies" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/SleepingInGrassByTree" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/snores.wav" text="snores" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/SingingInRoomByWindow" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-en/sings.wav" text="sings" tts="" var-1="null" var-2="null" var-3="null" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 </items>
 </lesson>
 <action_specific/>
+<sign_specific/>
 <test_entries>
 <test_entry ord="0" type="pre">
 <sentence ord="0" text="The dog{s} rolls{v}"/>
