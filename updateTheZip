@@ -1,0 +1,10 @@
+rm -rf animega/*
+unzip default.omega_assets_Animega-is.zip
+./fixContent
+./fixSFN
+git add .
+git st
+
+
+
+

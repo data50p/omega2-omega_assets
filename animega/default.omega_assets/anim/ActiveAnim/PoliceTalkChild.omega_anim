@@ -59,7 +59,7 @@
 </TimeMarker>
 <TimeMarker duration="0" type="[" when="0">
 <T_Event>
-<TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
+<TriggerEvent arg="audio/WalkRoomRL_vslow.mp3" cmd="PlaySound" isOn="true"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
@@ -86,36 +86,6 @@
 <TriggerEvent arg="" cmd="Dinner" isOn="false"/>
 <TriggerEvent arg="" cmd="Option" isOn="false"/>
 <TriggerEvent arg="" cmd="ResetSequence" isOn="true"/>
-</T_Event>
-</TimeMarker>
-<TimeMarker duration="0" type="t" when="7210">
-<T_Event>
-<TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
-<TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
-<TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="examining" cmd="ImageAttrib" isOn="false"/>
-<TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
-<TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
-<TriggerEvent arg="0.2" cmd="SetAnimSpeed" isOn="false"/>
-<TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
-<TriggerEvent arg="" cmd="Dinner" isOn="false"/>
-<TriggerEvent arg="" cmd="Option" isOn="false"/>
-<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
-</T_Event>
-</TimeMarker>
-<TimeMarker duration="0" type="t" when="8785">
-<T_Event>
-<TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
-<TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
-<TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
-<TriggerEvent arg="greeting" cmd="ImageAttrib" isOn="false"/>
-<TriggerEvent arg="Middle" cmd="SetLayer" isOn="false"/>
-<TriggerEvent arg="100" cmd="SetVisibility" isOn="false"/>
-<TriggerEvent arg="0.2" cmd="SetAnimSpeed" isOn="false"/>
-<TriggerEvent arg="" cmd="SetMirror" isOn="false"/>
-<TriggerEvent arg="" cmd="Dinner" isOn="false"/>
-<TriggerEvent arg="" cmd="Option" isOn="false"/>
-<TriggerEvent arg="{" cmd="ResetSequence" isOn="false"/>
 </T_Event>
 </TimeMarker>
 <TimeMarker duration="0" type="]" when="8850">
@@ -152,7 +122,7 @@
 <TimeLine duration="8800" lesson_id="B" nid="1" offset="200">
 <TimeMarker duration="0" type="{" when="-199">
 <T_Event>
-<TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
+<TriggerEvent arg="audio/WalkRoomL_4st_slow_soft.mp3" cmd="PlaySound" isOn="true"/>
 <TriggerEvent arg="0.0" cmd="Rotate" isOn="false"/>
 <TriggerEvent arg="0.0" cmd="Scale" isOn="false"/>
 <TriggerEvent arg="walk" cmd="ImageAttrib" isOn="true"/>
