@@ -46,7 +46,7 @@
 <TimeLine duration="9935" lesson_id="A" nid="0" offset="70">
 <TimeMarker duration="0" type="{" when="-69">
 <T_Event>
-<TriggerEvent arg="" cmd="PlaySound" isOn="false"/>
+<TriggerEvent arg="audio/space_sounds1.mp3" cmd="PlaySound" isOn="true"/>
 <TriggerEvent arg="250.0" cmd="Rotate" isOn="true"/>
 <TriggerEvent arg="-20.0 0.4" cmd="Scale" isOn="true"/>
 <TriggerEvent arg="" cmd="ImageAttrib" isOn="false"/>
