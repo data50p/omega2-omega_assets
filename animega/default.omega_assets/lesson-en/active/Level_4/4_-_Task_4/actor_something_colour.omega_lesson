@@ -26,9 +26,9 @@
 <item action-fname="anim/ActiveAnim/PointingAtSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-en/PointsAt.mp3" text="point{-1} at" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/LookingAtSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/acts-with.mp3" text="look{-1} at" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/ActiveAnim/{-4}ThrowIntoSleigh" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/throws.mp3" text="throw{-1}" tts="" var-1="B,D" var-2="{-3}" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="eat{-1}" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/{-4}LiftSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="lift{-1}" tts="" var-1="B,D" var-2="{-3}" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/{-4}LiftSomethingColour" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-en/acts-with.mp3" text="lift{-1}" tts="" var-1="B,D" var-2="{-3}" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="o" ord="2" type="passive">
 <item Lid="something{-2}" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/actor1.wav" text="something red" tts="" var-1="red" var-2="" var-3="" var-4="" var-5=""/>
