@@ -10,18 +10,18 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="plane" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/extra/hippo.mp3" dummytext="Flodhästen" ord="0" sign="" sound="audio/words-sv/plane.mp3" text="Flygplanet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="rocket" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/rabbit.mp3" dummytext="Räkan" ord="1" sign="" sound="audio/words-sv/theredbarn.mp3" text="Raketen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="FlyingSaucer" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/InTheLadder" dummytext="Den fina tekannan" ord="2" sign="" sound="audio/words-sv/thebigbush.mp3" text="Det flygande tefatet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="potato" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/plum.mp3" dummytext="Positivet" ord="3" sign="" sound="audio/words-sv/potato.mp3" text="Potatisen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="vacuum" action-fname="" action-type="omega_anim" dummysign="" dummysound="audio/words-sv/dummy/dromedary.mp3" dummytext="Dromedaren" ord="4" sign="" sound="audio/words-sv/vacuum.mp3" text="Dammsugaren" tts="damm-sugaren" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="fridge" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Kyrkan" ord="5" sign="" sound="audio/words-sv/extra/fridge.mp3" text="Kylskåpet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="plane" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/extra/hippo.mp3" dummytext="Flodhästen" ord="0" sign="" sound="audio/words-sv/plane.mp3" text="Flygplanet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="rocket" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/rabbit.mp3" dummytext="Räkan" ord="1" sign="" sound="audio/words-sv/theredbarn.mp3" text="Raketen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="FlyingSaucer" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/InTheLadder" dummytext="Den fina tekannan" ord="2" sign="" sound="audio/words-sv/thebigbush.mp3" text="Det flygande tefatet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="potato" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/plum.mp3" dummytext="Positivet" ord="3" sign="" sound="audio/words-sv/potato.mp3" text="Potatisen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="vacuum" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/dromedary.mp3" dummytext="Dromedaren" ord="4" sign="" sound="audio/words-sv/vacuum.mp3" text="Dammsugaren" tts="damm-sugaren" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="fridge" action-fname="" action-type="" dummysign="" dummysound="" dummytext="Kyrkan" ord="5" sign="" sound="audio/words-sv/extra/fridge.mp3" text="Kylskåpet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/circle_in_space" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-sv/swims.mp3" text="snurrar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/actor_disappear" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-sv/extra/flyover.mp3" text="försvinner" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/circle_in_space" action-type="omega_anim" dummysign="" dummysound="" dummytext="surrar" ord="0" sign="" sound="audio/words-sv/swims.mp3" text="snurrar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/actor_disappear" action-type="omega_anim" dummysign="" dummysound="" dummytext="förbinder" ord="1" sign="" sound="audio/words-sv/extra/flyover.mp3" text="försvinner" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -33,6 +33,5 @@
 </lesson>
 <action_specific/>
 <sign_specific/>
-<test_entries>
-</test_entries>
+<test_entries/>
 </omega_lesson>
