@@ -17,7 +17,7 @@
 <item Lid="actor5" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The moose" ord="4" sign="" sound="audio/words-en/mouse.mp3" text="The mouse" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="actor6" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The spiral" ord="5" sign="" sound="audio/words-en/squirrel.mp3" text="The squirrel" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="actor7" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The ant" ord="6" sign="" sound="audio/words-en/bird.mp3" text="The ape" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="actor8" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The perl" ord="7" sign="" sound="audio/words-en/girl.mp3" text="The girl" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="actor8" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The pearl" ord="7" sign="" sound="audio/words-en/girl.mp3" text="The girl" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
 <item action-fname="anim/AnimTemplates/ActorAction" action-type="omega_anim" dummysign="" dummysound="" dummytext="teas" ord="0" sign="" sound="audio/words-en/eats.mp3" text="eats" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

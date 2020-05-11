@@ -11,18 +11,18 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="girl" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="The pearl" ord="0" sign="" sound="audio/words-en/girl.mp3" text="The girl" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="boy" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="The bag" ord="1" sign="" sound="audio/words-en/boy.mp3" text="The boy" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="woman" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="The window" ord="2" sign="" sound="" text="The woman" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="man" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="The moon" ord="3" sign="" sound="" text="The man" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="robot" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="The rabbit" ord="4" sign="" sound="" text="The robot" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="car" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The cow" ord="5" sign="" sound="audio/words-en/car.mp3" text="The car" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="bus" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="The bass" ord="6" sign="" sound="audio/words-en/bus.mp3" text="The bus" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="girl" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The pearl" ord="0" sign="" sound="audio/words-en/girl.mp3" text="The girl" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="boy" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The bag" ord="1" sign="" sound="audio/words-en/boy.mp3" text="The boy" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="woman" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The wombat" ord="2" sign="" sound="" text="The woman" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="man" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The mane" ord="3" sign="" sound="" text="The man" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="robot" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The rabbit" ord="4" sign="" sound="" text="The robot" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="car" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The can" ord="5" sign="" sound="audio/words-en/car.mp3" text="The car" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="bus" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The bass" ord="6" sign="" sound="audio/words-en/bus.mp3" text="The bus" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/ActorMeetVehicleRoad" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/acts-with.mp3" text="meets" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/ActorFollowVehicleRoad" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/acts-with.mp3" text="follows" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/ActorMeetVehicleRoad" action-type="omega_anim" dummysign="" dummysound="" dummytext="means" ord="0" sign="" sound="audio/words-en/acts-with.mp3" text="meets" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/ActorFollowVehicleRoad" action-type="omega_anim" dummysign="" dummysound="" dummytext="flows" ord="1" sign="" sound="audio/words-en/acts-with.mp3" text="follows" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -31,11 +31,11 @@
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="o" ord="2" type="passive">
-<item Lid="bus" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="the bass" ord="0" sign="" sound="audio/words-en/bus.mp3" text="the bus" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="car" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="the cow" ord="1" sign="" sound="audio/words-en/car.mp3" text="the car" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="bus" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the bass" ord="0" sign="" sound="audio/words-en/bus.mp3" text="the bus" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="car" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the can" ord="1" sign="" sound="audio/words-en/car.mp3" text="the car" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="robot" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the rabbit" ord="2" sign="" sound="" text="the robot" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="man" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the moon" ord="3" sign="" sound="" text="the man" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="woman" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the window" ord="4" sign="" sound="" text="the woman" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="man" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the mane" ord="3" sign="" sound="" text="the man" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="woman" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the wombat" ord="4" sign="" sound="" text="the woman" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="boy" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the bag" ord="5" sign="" sound="audio/words-en/boy.mp3" text="the boy" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="girl" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the pearl" ord="6" sign="" sound="audio/words-en/girl.mp3" text="the girl" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
