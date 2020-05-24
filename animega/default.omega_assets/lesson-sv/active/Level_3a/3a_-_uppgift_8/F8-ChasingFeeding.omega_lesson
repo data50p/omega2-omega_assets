@@ -11,7 +11,7 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="dino" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/dromedary.wav" dummytext="Dromedaren" ord="0" sign="" sound="audio/words-sv/dino.wav" text="Dinosaurien" tts="dino-sa-urien" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="dino" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/dromedary.wav" dummytext="Dromedaren" ord="0" sign="" sound="audio/words-sv/dino.wav" text="Dinosaurien" tts="dino-sau´rien" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="buzzard" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/flie.wav" dummytext="Flugan" ord="1" sign="" sound="audio/words-sv/bird.wav" text="Fågeln" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="penguin" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/porcupine.wav" dummytext="Piggsvinet" ord="2" sign="" sound="audio/words-sv/penguin.wav" text="Pingvinen" tts="ping-vi-nen" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="lion" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/tiger.wav" dummytext="Tigern" ord="3" sign="" sound="audio/words-sv/lion.wav" text="Lejonet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -34,7 +34,7 @@
 <item Lid="lion" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/tiger.wav" dummytext="tigern" ord="0" sign="" sound="audio/words-sv/lion.wav" text="lejonet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="penguin" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/porcupine.wav" dummytext="piggsvinet" ord="1" sign="" sound="audio/words-sv/penguin.wav" text="pingvinen" tts="ping-vi-nen" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="buzzard" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/flie.wav" dummytext="flugan" ord="2" sign="" sound="audio/words-sv/bird.wav" text="fågeln" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="dino" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/dromedary.wav" dummytext="dromedaren" ord="3" sign="" sound="audio/words-sv/dino.wav" text="dinosaurien" tts="dino-sa-urien" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="dino" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/dromedary.wav" dummytext="dromedaren" ord="3" sign="" sound="audio/words-sv/dino.wav" text="dinosaurien" tts="dino-sau´rien" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

@@ -11,9 +11,9 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="apple" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/pear.wav" dummytext="Päronet" ord="0" sign="" sound="audio/words-sv/apple.wav" text="Äpplet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="squirrel" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/stag-beetle.wav" dummytext="Ekoxen" ord="1" sign="" sound="audio/words-sv/squirrel.wav" text="Ekorren" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="frog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/crops.wav" dummytext="Grödan" ord="2" sign="" sound="audio/words-sv/frog.wav" text="Grodan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="apple" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/pear.wav" dummytext="Päronet" ord="0" sign="" sound="audio/words-sv/apple.mp3" text="Äpplet" tts="äpp-let" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="squirrel" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/stag-beetle.mp3" dummytext="Ekoxen" ord="1" sign="" sound="audio/words-sv/squirrel.mp3" text="Ekorren" tts="e'korren" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="frog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/crops.mp3" dummytext="Grödan" ord="2" sign="" sound="audio/words-sv/frog.mp3" text="Grodan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -21,7 +21,7 @@
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/HidingInGrass" action-type="omega_anim" dummysign="" dummysound="" dummytext="tömmer" ord="0" sign="" sound="audio/words-sv/hides.wav" text="gömmer" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/HidingInGrass" action-type="omega_anim" dummysign="" dummysound="" dummytext="tömmer" ord="0" sign="" sound="audio/words-sv/hides.mp3" text="gömmer" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -31,9 +31,9 @@
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="o" ord="2" type="passive">
-<item Lid="frog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/crops.wav" dummytext="grödan" ord="0" sign="" sound="audio/words-sv/frog.wav" text="grodan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="apple" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/pear.wav" dummytext="päronet" ord="1" sign="" sound="audio/words-sv/apple.wav" text="äpplet" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="squirrel" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/stag-beetle.wav" dummytext="ekoxen" ord="2" sign="" sound="audio/words-sv/squirrel.wav" text="ekorren" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="frog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/crops.mp3" dummytext="grödan" ord="0" sign="" sound="audio/words-sv/frog.mp3" text="grodan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="apple" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/pear.mp3" dummytext="päronet" ord="1" sign="" sound="audio/words-sv/apple.mp3" text="äpplet" tts="äpp-let" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="squirrel" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/stag-beetle.mp3" dummytext="ekoxen" ord="2" sign="" sound="audio/words-sv/squirrel.mp3" text="ekorren" tts="e'korren" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

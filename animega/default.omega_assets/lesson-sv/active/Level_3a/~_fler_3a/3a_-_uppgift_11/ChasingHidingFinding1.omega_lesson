@@ -11,19 +11,19 @@
 </target>
 <items>
 <item-entry Tid="s,o" ord="0" type="actor">
-<item Lid="carrot" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/engine.wav" dummytext="motorn" ord="0" sign="" sound="audio/words-sv/carrot.wav" text="moroten" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="bee" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/car.wav" dummytext="bilen" ord="1" sign="" sound="audio/words-sv/bee.wav" text="biet" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="dog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/hand.wav" dummytext="handen" ord="2" sign="" sound="audio/words-sv/dog.wav" text="hunden" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="tiger" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/thread.wav" dummytext="tråden" ord="3" sign="" sound="audio/words-sv/tiger.wav" text="tigern" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="carrot" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/engine.wav" dummytext="motorn" ord="0" sign="" sound="audio/words-sv/carrot.mp3" text="moroten" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="bee" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/car.mp3" dummytext="bilen" ord="1" sign="" sound="audio/words-sv/bee.mp3" text="biet" tts="bi-et" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="dog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/hand.mp3" dummytext="handen" ord="2" sign="" sound="audio/words-sv/dog.mp3" text="hunden" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="tiger" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/thread.mp3" dummytext="tråden" ord="3" sign="" sound="audio/words-sv/tiger.mp3" text="tigern" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/ChaseChased1" action-type="omega_anim" dummysign="" dummysound="" dummytext="gapar" ord="0" sign="" sound="audio/words-sv/chases.wav" text="jagar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/HidingInGrass" action-type="omega_anim" dummysign="" dummysound="" dummytext="glömmer" ord="1" sign="" sound="audio/words-sv/hides.wav" text="gömmer" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/FindingAmongMushrooms" action-type="omega_anim" dummysign="" dummysound="" dummytext="dillar" ord="2" sign="" sound="audio/words-sv/finds.wav" text="hittar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/ChaseChased1" action-type="omega_anim" dummysign="" dummysound="" dummytext="gapar" ord="0" sign="" sound="audio/words-sv/chases.mp3" text="jagar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/HidingInGrass" action-type="omega_anim" dummysign="" dummysound="" dummytext="glömmer" ord="1" sign="" sound="audio/words-sv/hides.mp3" text="gömmer" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/FindingAmongMushrooms" action-type="omega_anim" dummysign="" dummysound="" dummytext="dillar" ord="2" sign="" sound="audio/words-sv/finds.mp3" text="hittar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

@@ -26,7 +26,7 @@
 <item Lid="bird" action-fname="anim/ActiveAnim/ActorPresentationCoast" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/bird.mp3" text="the bird" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="ball" action-fname="anim/ActiveAnim/rollingInPark" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-en/ball.mp3" text="the ball" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="cupboard" action-fname="anim/ActiveAnim/kitchen_closed_open" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="the cupboard" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="drawer" action-fname="anim/ActiveAnim/kitchen_closed_open" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="audio/words-en/larva.mp3" text="the drawer" tts="" var-1="C" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="drawer" action-fname="anim/ActiveAnim/kitchen_closed_open" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="audio/words-en/larva.mp3" text="the drawer" tts="the drawuh" var-1="C" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="sv" ord="2" type="action">
 <item Lid="ape" action-fname="anim/ActiveAnim/ActorPresB4DownOnRoundTable" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/ape.mp3" text="the ape" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
@@ -45,61 +45,5 @@
 </action_specific>
 <sign_specific/>
 <test_entries>
-<test_entry ord="0" type="pre">
-<sentence ord="0" text="The swan{sv}"/>
-<sentence ord="1" text="The box{sv}"/>
-<sentence ord="2" text="The bee{sv}"/>
-<sentence ord="3" text="The cat{sv}"/>
-<sentence ord="4" text="The buzzard{sv}"/>
-<sentence ord="5" text="The helicopter{sv}"/>
-<sentence ord="6" text="The house{sv}"/>
-<sentence ord="7" text="The hand{sv}"/>
-<sentence ord="8" text="The candle{sv}"/>
-<sentence ord="9" text="The dog{sv}"/>
-<sentence ord="10" text="The motorcycle{sv}"/>
-<sentence ord="11" text="The car{sv}"/>
-</test_entry>
-<test_entry ord="1" type="pre">
-<sentence ord="0" text="The carrot{sv}"/>
-<sentence ord="1" text="The astronaut{sv}"/>
-<sentence ord="2" text="The leopard{sv}"/>
-<sentence ord="3" text="The dinosaur{sv}"/>
-<sentence ord="4" text="The penguin{sv}"/>
-<sentence ord="5" text="The bus{sv}"/>
-<sentence ord="6" text="The lion{sv}"/>
-<sentence ord="7" text="The lemur{sv}"/>
-<sentence ord="8" text="The ghost{sv}"/>
-<sentence ord="9" text="The mouse{sv}"/>
-<sentence ord="10" text="The box{sv}"/>
-<sentence ord="11" text="The beaver{sv}"/>
-</test_entry>
-<test_entry ord="0" type="post">
-<sentence ord="0" text="The hand{sv}"/>
-<sentence ord="1" text="The candle{sv}"/>
-<sentence ord="2" text="The dog{sv}"/>
-<sentence ord="3" text="The motorcycle{sv}"/>
-<sentence ord="4" text="The car{sv}"/>
-<sentence ord="5" text="The swan{sv}"/>
-<sentence ord="6" text="The box{sv}"/>
-<sentence ord="7" text="The bee{sv}"/>
-<sentence ord="8" text="The cat{sv}"/>
-<sentence ord="9" text="The buzzard{sv}"/>
-<sentence ord="10" text="The helicopter{sv}"/>
-<sentence ord="11" text="The house{sv}"/>
-</test_entry>
-<test_entry ord="1" type="post">
-<sentence ord="0" text="The car{sv}"/>
-<sentence ord="1" text="The carrot{sv}"/>
-<sentence ord="2" text="The astronaut{sv}"/>
-<sentence ord="3" text="The bus{sv}"/>
-<sentence ord="4" text="The lion{sv}"/>
-<sentence ord="5" text="The lemur{sv}"/>
-<sentence ord="6" text="The leopard{sv}"/>
-<sentence ord="7" text="The dinosaur{sv}"/>
-<sentence ord="8" text="The penguin{sv}"/>
-<sentence ord="9" text="The ghost{sv}"/>
-<sentence ord="10" text="The mouse{sv}"/>
-<sentence ord="11" text="The swan{sv}"/>
-</test_entry>
 </test_entries>
 </omega_lesson>

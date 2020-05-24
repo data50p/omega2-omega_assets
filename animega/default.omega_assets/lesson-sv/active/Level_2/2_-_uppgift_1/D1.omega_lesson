@@ -10,9 +10,9 @@
 </target>
 <items>
 <item-entry Tid="s" ord="0" type="actor">
-<item Lid="squirrel" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/stag-beetle.wav" dummytext="Ekoxen" ord="0" sign="" sound="audio/words-sv/squirrel.wav" text="Ekorren" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="frog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/crops.wav" dummytext="Grödan" ord="1" sign="" sound="audio/words-sv/frog.wav" text="Grodan" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="mouse" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/gull.wav" dummytext="Måsen" ord="2" sign="" sound="audio/words-sv/mouse.wav" text="Musen" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="squirrel" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/stag-beetle.wav" dummytext="Ekoxen" ord="0" sign="" sound="audio/words-sv/squirrel.mp3" text="Ekorren" tts="e'korren" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="frog" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/crops.mp3" dummytext="Grödan" ord="1" sign="" sound="audio/words-sv/frog.mp3" text="Grodan" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="mouse" action-fname="" action-type="" dummysign="" dummysound="audio/words-sv/dummy/gull.mp3" dummytext="Måsen" ord="2" sign="" sound="audio/words-sv/mouse.mp3" text="Musen" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -20,9 +20,9 @@
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
 <item-entry Tid="v" ord="1" type="action">
-<item action-fname="anim/ActiveAnim/HidingBehindStone" action-type="omega_anim" dummysign="" dummysound="" dummytext="glömmer sig" ord="0" sign="" sound="audio/words-sv/hidesitself.wav" text="gömmer sig" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/DancingAroundStone" action-type="omega_anim" dummysign="" dummysound="" dummytext="bankar" ord="1" sign="" sound="audio/words-sv/dances.wav" text="dansar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/JumpingByStone" action-type="omega_anim" dummysign="" dummysound="" dummytext="droppar" ord="2" sign="" sound="audio/words-sv/jumps.wav" text="hoppar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/HidingBehindStone" action-type="omega_anim" dummysign="" dummysound="" dummytext="glömmer sig" ord="0" sign="" sound="audio/words-sv/hidesitself.mp3" text="gömmer sig" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/DancingAroundStone" action-type="omega_anim" dummysign="" dummysound="" dummytext="bankar" ord="1" sign="" sound="audio/words-sv/dances.mp3" text="dansar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/JumpingByStone" action-type="omega_anim" dummysign="" dummysound="" dummytext="droppar" ord="2" sign="" sound="audio/words-sv/jumps.mp3" text="hoppar" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

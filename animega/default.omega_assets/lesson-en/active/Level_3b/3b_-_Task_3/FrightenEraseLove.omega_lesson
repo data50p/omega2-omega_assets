@@ -13,7 +13,7 @@
 <item-entry Tid="s" ord="0" type="actor">
 <item Lid="Fairy" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/bear.wav" dummytext="The dairy" ord="0" sign="" sound="audio/words-en/flag.mp3" text="The fairy" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="Ghost" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/cart.wav" dummytext="The goat" ord="1" sign="" sound="audio/words-en/ghost.mp3" text="The ghost" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="Pharao" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The pheasant" ord="2" sign="" sound="audio/words-en/frog.mp3" text="The pharao" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="Pharao" action-fname="" action-type="" dummysign="" dummysound="" dummytext="The pheasant" ord="2" sign="" sound="audio/words-en/frog.mp3" text="The pharaoh" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
@@ -32,7 +32,7 @@
 </item-entry>
 <item-entry Tid="o" ord="2" type="passive">
 <item Lid="Ghost2" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/cart.wav" dummytext="the goat" ord="0" sign="" sound="audio/words-en/ghost.mp3" text="the ghost" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="Pharao2" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/bear.wav" dummytext="the pheasant" ord="1" sign="" sound="audio/words-en/frog.mp3" text="the pharao" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="Pharao2" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/bear.wav" dummytext="the pheasant" ord="1" sign="" sound="audio/words-en/frog.mp3" text="the pharaoh" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="Fairy2" action-fname="" action-type="" dummysign="" dummysound="" dummytext="the dairy" ord="2" sign="" sound="audio/words-en/flag.mp3" text="the fairy" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item action-fname="" action-type="" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>

@@ -15,7 +15,7 @@
 <item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Jästen" ord="2" sign="" sound="audio/words-sv/actor3.wav" text="Geten" tts="" var-1="n" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Lavan" ord="3" sign="" sound="audio/words-sv/actor4.mp3" text="Larven" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Näsan" ord="4" sign="" sound="audio/words-sv/mouse.mp3" text="Musen" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
-<item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Ekoxen" ord="5" sign="" sound="audio/words-sv/squirrel.mp3" text="Ekorren" tts="eck-orrän" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Ekoxen" ord="5" sign="" sound="audio/words-sv/squirrel.mp3" text="Ekorren" tts="e'korren" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Aspen" ord="6" sign="" sound="audio/words-sv/bird.mp3" text="Apan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="" action-fname="" action-type="omega_anim" dummysign="" dummysound="" dummytext="Fläcken" ord="7" sign="" sound="audio/words-sv/girl.mp3" text="Flickan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
 </item-entry>
