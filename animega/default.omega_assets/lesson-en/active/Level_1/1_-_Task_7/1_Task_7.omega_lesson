@@ -21,7 +21,7 @@
 <item-entry Tid="sv" ord="1" type="action">
 <item Lid="fridge_door" action-fname="anim/ActiveAnim/kitchen_closed_open" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="0" sign="" sound="audio/words-en/extra/fridge.mp3" text="the fridge" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="man" action-fname="anim/ActiveAnim/ActorPresentationCoast" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="1" sign="" sound="audio/words-en/dummy/man.mp3" text="the man" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
-<item action-fname="anim/ActiveAnim/ActorPresentationCoast" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-en/robot.mp3" text="the robot" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="robot" action-fname="anim/ActiveAnim/ActorPresentationCoast" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="2" sign="" sound="audio/words-en/robot.mp3" text="the robot" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="woman" action-fname="anim/ActiveAnim/ActorPresentationCoast" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="audio/words-en/winter.mp3" text="the woman" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="bird" action-fname="anim/ActiveAnim/ActorPresentationCoast" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="audio/words-en/bird.mp3" text="the bird" tts="" var-1="B" var-2="" var-3="" var-4="" var-5=""/>
 <item Lid="ball" action-fname="anim/ActiveAnim/rollingInPark" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="audio/words-en/ball.mp3" text="the ball" tts="" var-1="A" var-2="" var-3="" var-4="" var-5=""/>
@@ -44,6 +44,5 @@
 <value key="The ape" val="anim/ActiveVideo/animalsEating/gorilla.mp4"/>
 </action_specific>
 <sign_specific/>
-<test_entries>
-</test_entries>
+<test_entries/>
 </omega_lesson>
