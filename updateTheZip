@@ -1,6 +1,5 @@
-rsync --delete -uvarHlE import/default.omega_assets_Animega-is animega/
-#rm -rf animega/*default.omega_assets_Animega-is ani
-#unzip import/default.omega_assets_Animega-is.zip
+rsync --delete -uvarHlE import/default.omega_assets_Animega-is/ animega
+rsync --delete -uvarHlE import/default.omega_assets_Animega-is-trial/ animega-lite
 ./fixContent
 ./fixSFN
 git add .
