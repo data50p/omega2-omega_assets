@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE omega_lesson >
+
+<omega_lesson version="0.0">
+<lesson_canvas color_bg_b="#8cdcf0" color_bg_fr="#0" color_bg_frbg="#ffff66" color_bg_m="#d2b4dc" color_bg_t="#f0dc8c" color_bg_tx="#0" color_bt_bg="#f0dc8c" color_bt_fr="#0" color_bt_fr_hi="#0" color_bt_fr_hs="#ff0000" color_bt_hi="#ffffcc" color_bt_hs="#ffff33" color_bt_tx="#0" color_bt_tx_hi="#0" color_bt_tx_hs="#0" color_sn_bg="#ffff66" color_sn_fr="#0" color_sn_hi="#ff9933" color_sn_tx="#0" show_wordbox="true"/>
+<lesson name="abc" ord="0">
+<target>
+<t-item Lid="A" Tid="s" ord="0" type="passive"/>
+<t-item Lid="" Tid="v" ord="1" type="action"/>
+<t-item Lid="B" Tid="o" ord="2" type="passive"/>
+</target>
+<items>
+<item-entry Tid="s,o" ord="0" type="actor">
+<item Lid="astronaut" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/accident.wav" dummytext="the accident" ord="0" sign="" sound="audio/words-en/astronaut.wav" text="the astronaut" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="buzzard" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/bridle.wav" dummytext="the bridle" ord="1" sign="" sound="audio/words-en/bird.wav" text="the buzzard" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="penguin" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/pelican.wav" dummytext="the pelican" ord="2" sign="" sound="audio/words-en/penguin.wav" text="the penguin" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="swan" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/stork.wav" dummytext="the stork" ord="3" sign="" sound="audio/words-en/swan.wav" text="the swan" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="ghost" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/gazelle.wav" dummytext="the gazelle" ord="4" sign="" sound="audio/words-en/ghost.wav" text="the ghost" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="lion" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/piranha.wav" dummytext="the piranha" ord="5" sign="" sound="audio/words-en/lion.wav" text="the lion" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="tiger" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/towtruck.wav" dummytext="the towtruck" ord="6" sign="" sound="audio/words-en/tiger.wav" text="the tiger" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item Lid="dino" action-fname="" action-type="" dummysign="" dummysound="audio/words-en/dummy/dinner.wav" dummytext="the dinner" ord="7" sign="" sound="audio/words-en/dino.wav" text="the dinosaur" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+</item-entry>
+<item-entry Tid="v" ord="1" type="action">
+<item action-fname="anim/ActiveAnim/ChaseChased2" action-type="omega_anim" dummysign="" dummysound="" dummytext="places" ord="0" sign="" sound="audio/words-en/chases.wav" text="chases" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/FeedCarrotPolar" action-type="omega_anim" dummysign="" dummysound="" dummytext="needs" ord="1" sign="" sound="audio/words-en/feeds.wav" text="feeds" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/ActiveAnim/WashBath" action-type="omega_anim" dummysign="" dummysound="" dummytext="watches" ord="2" sign="" sound="audio/words-en/washes.wav" text="washes" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="3" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="4" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="5" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="6" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+<item action-fname="anim/AnimTemplates/ActorActsWith" action-type="omega_anim" dummysign="" dummysound="" dummytext="" ord="7" sign="" sound="" text="" tts="" var-1="" var-2="" var-3="" var-4="" var-5=""/>
+</item-entry>
+</items>
+</lesson>
+<action_specific/>
+<sign_specific/>
+<test_entries>
+</test_entries>
+</omega_lesson>

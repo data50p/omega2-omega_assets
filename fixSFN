@@ -1,1 +1,2 @@
 find animega -name '* *' -exec echo $(pwd)/sfn '"{}"' "' '" "'_'" \;|sh|sh
+find animega-lite -name '* *' -exec echo $(pwd)/sfn '"{}"' "' '" "'_'" \;|sh|sh
