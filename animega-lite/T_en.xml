@@ -725,15 +725,45 @@
       <string>Close</string>
       <string>Close</string>
     </void>
-  </object>
     <void method="put">
       <string>Guest student</string>
       <string>Guest student</string>
     </void>
-  </object>
     <void method="put">
-      <string> </string>
-      <string> </string>
+      <string>OK</string>
+      <string>OK</string>
+    </void>
+    <void method="put">
+      <string>Enter old passcode</string>
+      <string>Enter old passcode</string>
+    </void>
+    <void method="put">
+      <string>Enter new passcode</string>
+      <string>Enter new passcode</string>
+    </void>
+    <void method="put">
+      <string>Enter passcode</string>
+      <string>Enter passcode</string>
+    </void>
+    <void method="put">
+      <string>Change passcode</string>
+      <string>Change accesskod</string>
+    </void>
+    <void method="put">
+      <string>Enter Passcode</string>
+      <string>Enter Passcode</string>
+    </void>
+    <void method="put">
+      <string>Change Passcode</string>
+      <string>Change Passcode</string>
+    </void>
+    <void method="put">
+      <string>Incorrect passcode</string>
+      <string>Incorrect passcode</string>
+    </void>
+    <void method="put">
+      <string>Old passcode incorrect</string>
+      <string>Old passcode incorrect</string>
     </void>
   </object>
 </java>
