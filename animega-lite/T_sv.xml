@@ -103,19 +103,19 @@
     </void>
     <void method="put">
       <string>Last session date</string>
-      <string>Föregående sessionsdatum</string>
+      <string>Senaste sessionsdatum</string>
     </void>
     <void method="put">
-      <string>Last 3 session dates</string>
+      <string>Previous 3 session dates</string>
       <string>Föregående 3 sessionsdatum</string>
     </void>
     <void method="put">
-      <string>Last 7 days</string>
-      <string>Föregående 7 dagar</string>
+      <string>Previous 7 session dates</string>
+      <string>Föregående 7 sessionsdatum</string>
     </void>
     <void method="put">
-      <string>All results</string>
-      <string>Alla resultat</string>
+      <string>All previous results</string>
+      <string>Alla tidigare resultat</string>
     </void>
     <void method="put">
       <string>Sentences % correct</string>

@@ -106,16 +106,16 @@
       <string>Last session date</string>
     </void>
     <void method="put">
-      <string>Last 3 session dates</string>
-      <string>Last 3 session dates</string>
+      <string>Previous 3 session dates</string>
+      <string>Previous 3 session dates</string>
     </void>
     <void method="put">
-      <string>Last 7 days</string>
-      <string>Last 7 days</string>
+      <string>Previous 7 session dates</string>
+      <string>Previous 7 session dates</string>
     </void>
     <void method="put">
-      <string>All results</string>
-      <string>All results</string>
+      <string>All previous results</string>
+      <string>All previous results</string>
     </void>
     <void method="put">
       <string>Sentences % correct</string>
