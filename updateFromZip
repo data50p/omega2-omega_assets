@@ -1,7 +1,9 @@
 rm -rf animega/*
 rm -rf animega-lite/*
-(cd animega; unzip ../default.omega_assets_Animega-is.zip)
-(cd animega-lite; unzip ../default.omega_assets_Animega-is-trial.zip)
+unzip default.omega_assets_Animega-is.zip
+unzip default.omega_assets_Animega-is-trial.zip
+rsync -uvarHlE default.omega_assets_Animega-is/ animega/
+rsync -uvarHlE default.omega_assets_Animega-is-trial/ animega-lite/
 
 ./fixContent
 ./fixSFN

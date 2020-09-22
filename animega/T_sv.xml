@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<java version="1.4.2_03" class="java.beans.xmlDecoder">
+  <object class="java.util.HashMap">
+    <void method="put">
+      <string>Create</string>
+      <string>Skapa</string>
+    </void>
+    <void method="put">
+      <string>Test</string>
+      <string>Testa</string>
+    </void>
+    <void method="put">
+      <string>Student Mode</string>
+      <string>Elevläge</string>
+    </void>
+    <void method="put">
+      <string>Back</string>
+      <string>Bakåt</string>
+    </void>
+    <void method="put">
+      <string>Replay</string>
+      <string>Upprepa</string>
+    </void>
+    <void method="put">
+      <string>Replay/Scene</string>
+      <string>En gång till/Scen</string>
+    </void>
+    <void method="put">
+      <string>Replay/Speech</string>
+      <string>En gång till/Tal</string>
+    </void>
+    <void method="put">
+      <string>Select level</string>
+      <string>Välj nivå</string>
+    </void>
+    <void method="put">
+      <string>Choose task</string>
+      <string>Välj uppgift</string>
+    </void>
+    <void method="put">
+      <string>Go to Teacher mode</string>
+      <string>Till lärarläge</string>
+    </void>
+    <void method="put">
+      <string></string>
+      <string></string>
+    </void>
+    <void method="put">
+      <string>Go to student mode</string>
+      <string>Till Elevläge</string>
+    </void>
+    <void method="put">
+      <string>Teacher Mode</string>
+      <string>Lärarläge</string>
+    </void>
+    <void method="put">
+      <string>User name</string>
+      <string>Elevnamn</string>
+    </void>
+    <void method="put">
+      <string>Results Summary</string>
+      <string>Resultatöversikt</string>
+    </void>
+    <void method="put">
+      <string>Results List</string>
+      <string>Resultatlista</string>
+    </void>
+    <void method="put">
+      <string>Feedback</string>
+      <string>Feedback</string>
+    </void>
+    <void method="put">
+      <string>Student Settings</string>
+      <string>Elevinställningar</string>
+    </void>
+    <void method="put">
+      <string>Select Tasks</string>
+      <string>Välj Uppgifter</string>
+    </void>
+    <void method="put">
+      <string>Personalize Task</string>
+      <string>Anpassa uppgift</string>
+    </void>
+    <void method="put">
+      <string>System Passcode</string>
+      <string>Accesskod</string>
+    </void>
+    <void method="put">
+      <string>(Prototype)</string>
+      <string>(Prototyp)</string>
+    </void>
+    <void method="put">
+      <string>Mean Results overview</string>
+      <string>Resultatgenomsnitt - översikt</string>
+    </void>
+    <void method="put">
+      <string>Compare:</string>
+      <string>Jämför:</string>
+    </void>
+    <void method="put">
+      <string>with</string>
+      <string>med</string>
+    </void>
+    <void method="put">
+      <string>Last session date</string>
+      <string>Senaste sessionsdatum</string>
+    </void>
+    <void method="put">
+      <string>Previous 3 session dates</string>
+      <string>Föregående 3 sessionsdatum</string>
+    </void>
+    <void method="put">
+      <string>Previous 7 session dates</string>
+      <string>Föregående 7 sessionsdatum</string>
+    </void>
+    <void method="put">
+      <string>All previous results</string>
+      <string>Alla tidigare resultat</string>
+    </void>
+    <void method="put">
+      <string>Sentences % correct</string>
+      <string>Meningar % rätt</string>
+    </void>
+    <void method="put">
+      <string>Words % correct</string>
+      <string>Ord % rätt</string>
+    </void>
+    <void method="put">
+      <string>Sentences</string>
+      <string>Meningar</string>
+    </void>
+    <void method="put">
+      <string>Words</string>
+      <string>Ord</string>
+    </void>
+    <void method="put">
+      <string>correct</string>
+      <string>rätt</string>
+    </void>
+    <void method="put">
+      <string>Time correct sentence</string>
+      <string>Tid rätt mening</string>
+    </void>
+    <void method="put">
+      <string>Date</string>
+      <string>Datum</string>
+    </void>
+    <void method="put">
+      <string>Type</string>
+      <string>Typ</string>
+    </void>
+    <void method="put">
+      <string>Lesson</string>
+      <string>Uppgift</string>
+    </void>
+    <void method="put">
+      <string>Right_Sentences_Header</string>
+      <string>RM</string>
+    </void>
+    <void method="put">
+      <string>Wrong_Sentences_Header</string>
+      <string>FM</string>
+    </void>
+    <void method="put">
+      <string>Percent_Right_Sentences_Header</string>
+      <string>%RM</string>
+    </void>
+    <void method="put">
+      <string>Correct_Words_Header</string>
+      <string>RO</string>
+    </void>
+    <void method="put">
+      <string>Right_Words_Header</string>
+      <string>RO</string>
+    </void>
+    <void method="put">
+      <string>Wrong_Words_Header</string>
+      <string>FO</string>
+    </void>
+    <void method="put">
+      <string>Percent_Right_Words_Header</string>
+      <string>%RO</string>
+    </void>
+    <void method="put">
+      <string>Session_Length_Header</string>
+      <string>SL</string>
+    </void>
+    <void method="put">
+      <string>Number_Sentences_Header</string>
+      <string>#M</string>
+    </void>
+    <void method="put">
+      <string>Number_Words_Header</string>
+      <string>#O</string>
+    </void>
+    <void method="put">
+      <string>Sentence_Time_Header</string>
+      <string>TM</string>
+    </void>
+    <void method="put">
+      <string>POS_Header</string>
+      <string>Satsdel</string>
+    </void>
+    <void method="put">
+      <string>Export list</string>
+      <string>Exportera lista</string>
+    </void>
+    <void method="put">
+      <string>Show lesson details</string>
+      <string>Visa detaljer</string>
+    </void>
+    <void method="put">
+      <string>minute_abbrev</string>
+      <string>m</string>
+    </void>
+    <void method="put">
+      <string>seconds_abbrev</string>
+      <string>s</string>
+    </void>
+    <void method="put">
+      <string>Abbreviations (Test):</string>
+      <string>Förkortningar (Testa):</string>
+    </void>
+    <void method="put">
+      <string>Correct Sentences</string>
+      <string>Rätta Meningar</string>
+    </void>
+    <void method="put">
+      <string>Correct Words</string>
+      <string>Rätta Ord</string>
+    </void>
+    <void method="put">
+      <string>Session Length</string>
+      <string>Sessionslängd</string>
+    </void>
+    <void method="put">
+      <string>Part Of Speech</string>
+      <string>Satsdel</string>
+    </void>
+    <void method="put">
+      <string>Abbreviations (Create):</string>
+      <string>Förkortningar (Skapa):</string>
+    </void>
+    <void method="put">
+      <string>Correct Sentence</string>
+      <string>Rätt mening</string>
+    </void>
+    <void method="put">
+      <string>Incorrect Words</string>
+      <string>Fel Ord</string>
+    </void>
+    <void method="put">
+      <string>Number of sentences</string>
+      <string>Antal Meningar</string>
+    </void>
+    <void method="put">
+      <string>Number of words</string>
+      <string>Antal Ord</string>
+    </void>
+    <void method="put">
+      <string>Default text</string>
+      <string>Standard text</string>
+    </void>
+    <void method="put">
+      <string>Default speech</string>
+      <string>Standard tal</string>
+    </void>
+    <void method="put">
+      <string>Default positive image</string>
+      <string>Standard positiv bild</string>
+    </void>
+    <void method="put">
+      <string>Default negative image</string>
+      <string>Default negative image</string>
+    </void>
+    <void method="put">
+      <string>Default video</string>
+      <string>Default video</string>
+    </void>
+    <void method="put">
+      <string>Text</string>
+      <string>Text</string>
+    </void>
+    <void method="put">
+      <string>Change</string>
+      <string>Ändra</string>
+    </void>
+    <void method="put">
+      <string>Speech</string>
+      <string>Tal</string>
+    </void>
+    <void method="put">
+      <string>Positive image</string>
+      <string>Positiv bild</string>
+    </void>
+    <void method="put">
+      <string>Negative image</string>
+      <string>Negative image</string>
+    </void>
+    <void method="put">
+      <string>Video</string>
+      <string>Video</string>
+    </void>
+    <void method="put">
+      <string>Language</string>
+      <string>Språk</string>
+    </void>
+    <void method="put">
+      <string>Access Method</string>
+      <string>Styrsätt</string>
+    </void>
+    <void method="put">
+      <string>Switch Settings</string>
+      <string>Inställning kontakt</string>
+    </void>
+    <void method="put">
+      <string>Iterate key</string>
+      <string>Stega-tangent</string>
+    </void>
+    <void method="put">
+      <string>Accept key</string>
+      <string>Välja-tangent</string>
+    </void>
+    <void method="put">
+      <string>Presentation</string>
+      <string>Presentation</string>
+    </void>
+    <void method="put">
+      <string>Random word order</string>
+      <string>Slumpad ordning ord</string>
+    </void>
+    <void method="put">
+      <string>High contrast mode</string>
+      <string>Hög kontrast</string>
+    </void>
+    <void method="put">
+      <string>Fitzgerald Key colored</string>
+      <string>Fitzgerald Key colored</string>
+    </void>
+    <void method="put">
+      <string>#</string>
+      <string>#</string>
+    </void>
+    <void method="put">
+      <string>Selection</string>
+      <string>Val</string>
+    </void>
+    <void method="put">
+      <string>Created Sentence</string>
+      <string>Skapad mening</string>
+    </void>
+    <void method="put">
+      <string>Time</string>
+      <string>Tid</string>
+    </void>
+    <void method="put">
+      <string>&lt;&lt; Back</string>
+      <string>&lt;&lt; Tillbaka</string>
+    </void>
+    <void method="put">
+      <string>Change picture</string>
+      <string>Ändra bild</string>
+    </void>
+    <void method="put">
+      <string>First Name</string>
+      <string>Förnamn</string>
+    </void>
+    <void method="put">
+      <string>Last Name</string>
+      <string>Efternamn</string>
+    </void>
+    <void method="put">
+      <string>Date of Birth</string>
+      <string>Födelsedatum</string>
+    </void>
+    <void method="put">
+      <string>Set</string>
+      <string>Välj</string>
+    </void>
+    <void method="put">
+      <string>Select student</string>
+      <string>Välj elev</string>
+    </void>
+    <void method="put">
+      <string>Delete Student</string>
+      <string>Radera elev</string>
+    </void>
+    <void method="put">
+      <string>Save</string>
+      <string>Spara</string>
+    </void>
+    <void method="put">
+      <string>Cancel</string>
+      <string>Avbryt</string>
+    </void>
+    <void method="put">
+      <string>Create profile</string>
+      <string>Skapa profil</string>
+    </void>
+    <void method="put">
+      <string>Results &amp; Tests</string>
+      <string>Resultat &amp; Test</string>
+    </void>
+    <void method="put">
+      <string>Teacher Tests</string>
+      <string>Lärartest</string>
+    </void>
+    <void method="put">
+      <string>Student settings</string>
+      <string>Elevinställningar</string>
+    </void>
+    <void method="put">
+      <string>Feedback &amp; presentation</string>
+      <string>Feedback &amp; presentation</string>
+    </void>
+    <void method="put">
+      <string>Access</string>
+      <string>Styrsätt</string>
+    </void>
+    <void method="put">
+      <string>Audio Presentation</string>
+      <string>Presentation ljud</string>
+    </void>
+    <void method="put">
+      <string>Text-to-speech voice:</string>
+      <string>Talsyntesröst:</string>
+    </void>
+    <void method="put">
+      <string>Speech rate</string>
+      <string>Talhastighet</string>
+    </void>
+    <void method="put">
+      <string>Visual presentation</string>
+      <string>Visuell presentation</string>
+    </void>
+    <void method="put">
+      <string>Random word order - Test</string>
+      <string>Slumpad ordning ord - Test</string>
+    </void>
+    <void method="put">
+      <string>Random word order - Create</string>
+      <string>Slumpad ordning ord - Skapa</string>
+    </void>
+    <void method="put">
+      <string>Test feedback</string>
+      <string>Test-feedback</string>
+    </void>
+    <void method="put">
+      <string>Positive sound</string>
+      <string>Positivt ljud</string>
+    </void>
+    <void method="put">
+      <string>Teacher Test</string>
+      <string>Lärartest</string>
+    </void>
+    <void method="put">
+      <string>to go</string>
+      <string>kvar</string>
+    </void>
+    <void method="put">
+      <string>Next</string>
+      <string>Nästa</string>
+    </void>
+    <void method="put">
+      <string>Result</string>
+      <string>Resultat</string>
+    </void>
+    <void method="put">
+      <string>Your score</string>
+      <string>Din poäng</string>
+    </void>
+    <void method="put">
+      <string>SwitchSettings</string>
+      <string>Alternativ</string>
+    </void>
+    <void method="put">
+      <string>Touch Mode:</string>
+      <string>Pekskärm:</string>
+    </void>
+    <void method="put">
+      <string>Options:</string>
+      <string>Alternativ:</string>
+    </void>
+    <void method="put">
+      <string>Hold time:</string>
+      <string>Håll-tid:</string>
+    </void>
+    <void method="put">
+      <string>Off</string>
+      <string>Av</string>
+    </void>
+    <void method="put">
+      <string>Fast (0.5s)</string>
+      <string>Kort (0.5s)</string>
+    </void>
+    <void method="put">
+      <string>Medium (1.0s)</string>
+      <string>Medium (1.0s)</string>
+    </void>
+    <void method="put">
+      <string>Slow (2.5s)</string>
+      <string>Lång (2.5s)</string>
+    </void>
+    <void method="put">
+      <string>Connect Multiple taps:</string>
+      <string>Bind ihop tryck:</string>
+    </void>
+    <void method="put">
+      <string>Fast (0.1s)</string>
+      <string>Kort (0.1s)</string>
+    </void>
+    <void method="put">
+      <string>Medium (0.3s)</string>
+      <string>Medium (0.3s)</string>
+    </void>
+    <void method="put">
+      <string>Slow (1.0s)</string>
+      <string>Lång (1.0s)</string>
+    </void>
+    <void method="put">
+      <string>Delay Between Selections:</string>
+      <string>Tid mellan val:</string>
+    </void>
+    <void method="put">
+      <string>Fast (1.0s)</string>
+      <string>Kort (1.0s)</string>
+    </void>
+    <void method="put">
+      <string>Medium (2.0s)</string>
+      <string>Medium (2.0s)</string>
+    </void>
+    <void method="put">
+      <string>Slow (3.0s)</string>
+      <string>Lång (3.0s)</string>
+    </void>
+    <void method="put">
+      <string>On</string>
+      <string>På</string>
+    </void>
+    <void method="put">
+      <string>Teacher mode passcode</string>
+      <string>Lärar-kod</string>
+    </void>
+    <void method="put">
+      <string>Enabled</string>
+      <string>Aktiverad</string>
+    </void>
+    <void method="put">
+      <string>Select</string>
+      <string>Välj</string>
+    </void>
+    <void method="put">
+      <string>Interrupted test</string>
+      <string>Avbrutet test</string>
+    </void>
+    <void method="put">
+      <string>Create New Student</string>
+      <string>Skapa ny elev</string>
+    </void>
+    <void method="put">
+      <string>Edit Profile</string>
+      <string>Redigera profil</string>
+    </void>
+    <void method="put">
+      <string>Change Student</string>
+      <string>Byta elev</string>
+    </void>
+    <void method="put">
+      <string>Touch</string>
+      <string>Pekskärm</string>
+    </void>
+    <void method="put">
+      <string>Switch</string>
+      <string>Tangent-kontakt</string>
+    </void>
+    <void method="put">
+      <string>Key/Switch</string>
+      <string>Tangent-kontakt</string>
+    </void>
+    <void method="put">
+      <string>Touch Enter</string>
+      <string>Peka-tryck</string>
+    </void>
+    <void method="put">
+      <string>Touch Exit</string>
+      <string>Peka-släpp</string>
+    </void>
+    <void method="put">
+      <string>Select teacher test type</string>
+      <string>Välj typ av lärartest</string>
+    </void>
+    <void method="put">
+      <string>Pre-test</string>
+      <string>För-test</string>
+    </void>
+    <void method="put">
+      <string>Post-test</string>
+      <string>Efter-test</string>
+    </void>
+    <void method="put">
+      <string>Pre-test-info</string>
+      <string>För-test innehåller bara ord som ingår i uppgifterna i Skapa-läge.</string>
+    </void>
+    <void method="put">
+      <string>Post-test-info</string>
+      <string>Efter-test innehåller tillagda distraktionsord som en ytterligare utmaning för att pröva elevens förmåga att avkoda text.</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-bracket</string>
+      <string>(...välj sedan nivå och uppgift...)</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-info1</string>
+      <string>Dessa lärartest kan lämpligen användas för att bedöma förutsättningar före, och resultat efter, särskilda insatser - med Animega-is och/eller annat material.</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-info2</string>
+      <string>I så fall kan det vara lämpligt att genomföra ett första för-test i god tid före, och sedan ett andra alldeles innan insatsen, för att etablera ett utgångsläge (baseline) för eleverna.</string>
+    </void>
+    <void method="put">
+      <string>Teacher-test-info3</string>
+      <string>Ett första efter-test kan sedan göras vid slutet av insatsen, och ett andra några månader senare, för att bedöma omedelbara och kvarstående effekter av insatsen.</string>
+    </void>
+    <void method="put">
+      <string>English</string>
+      <string>Engelska</string>
+    </void>
+    <void method="put">
+      <string>Swedish</string>
+      <string>Svenska</string>
+    </void>
+    <void method="put">
+      <string>Norwegian (Bokmål)</string>
+      <string>Norska (bokmål)</string>
+    </void>
+    <void method="put">
+      <string>Norwegian (Nynorsk)</string>
+      <string>Norska (nynorsk)</string>
+    </void>
+    <void method="put">
+      <string>Language for lessons</string>
+      <string>Språk för uppgifterna</string>
+    </void>
+    <void method="put">
+      <string>System default</string>
+      <string>Systemspråk</string>
+    </void>
+    <void method="put">
+      <string>Tab</string>
+      <string>Tab</string>
+    </void>
+    <void method="put">
+      <string>Space</string>
+      <string>Blanksteg</string>
+    </void>
+    <void method="put">
+      <string>Enter</string>
+      <string>Enter</string>
+    </void>
+    <void method="put">
+      <string>Welcome to Animega-is</string>
+      <string>Välkommen till Animega interaktiv språklek</string>
+    </void>
+    <void method="put">
+      <string>CS</string>
+      <string>RM</string>
+    </void>
+    <void method="put">
+      <string>CW</string>
+      <string>RO</string>
+    </void>
+    <void method="put">
+      <string>SL</string>
+      <string>SL</string>
+    </void>
+    <void method="put">
+      <string>Escape</string>
+      <string>Escape</string>
+    </void>
+    <void method="put">
+      <string>Bakåt</string>
+      <string></string>
+    </void>
+    <void method="put">
+      <string>#S</string>
+      <string>#M</string>
+    </void>
+    <void method="put">
+      <string>#W</string>
+      <string>#O</string>
+    </void>
+    <void method="put">
+      <string>Exit test?</string>
+      <string>Avbryt test?</string>
+    </void>
+    <void method="put">
+      <string>No</string>
+      <string>Nej</string>
+    </void>
+    <void method="put">
+      <string>Yes</string>
+      <string>Ja</string>
+    </void>
+    <void method="put">
+      <string>voice_test</string>
+      <string>rösttest</string>
+    </void>
+    <void method="put">
+      <string>Post</string>
+      <string>Efter</string>
+    </void>
+    <void method="put">
+      <string>User</string>
+      <string>Användare</string>
+    </void>
+    <void method="put">
+      <string>Created sentence</string>
+      <string>Skapad mening</string>
+    </void>
+    <void method="put">
+      <string>Correct sentence</string>
+      <string>Rätt mening</string>
+    </void>
+    <void method="put">
+      <string>Close</string>
+      <string>Stäng</string>
+    </void>
+    <void method="put">
+      <string>Guest student</string>
+      <string>Gäst</string>
+    </void>
+    <void method="put">
+      <string>OK</string>
+      <string>OK</string>
+    </void>
+    <void method="put">
+      <string>Enter old passcode</string>
+      <string>Ange tidigare accesskod</string>
+    </void>
+    <void method="put">
+      <string>Enter new passcode</string>
+      <string>Ange ny accesskod</string>
+    </void>
+    <void method="put">
+      <string>Enter passcode</string>
+      <string>Ange accesskod</string>
+    </void>
+    <void method="put">
+      <string>Change passcode</string>
+      <string>Ändra accesskod</string>
+    </void>
+    <void method="put">
+      <string>Enter Passcode</string>
+      <string>Ange accesskod</string>
+    </void>
+    <void method="put">
+      <string>Change Passcode</string>
+      <string>Ändra accesskod</string>
+    </void>
+    <void method="put">
+      <string>Incorrect passcode</string>
+      <string>Fel accesskod</string>
+    </void>
+    <void method="put">
+      <string>Old passcode incorrect</string>
+      <string>Fel tidigare accesskod</string>
+    </void>
+  </object>
+</java>
