@@ -1,5 +1,7 @@
 rm -rf animega/*
 rm -rf animega-lite/*
+rm -rf default.omega_assets_Animega-is
+rm -rf default.omega_assets_Animega-is-trial
 unzip default.omega_assets_Animega-is.zip
 unzip default.omega_assets_Animega-is-trial.zip
 rsync -uvarHlE default.omega_assets_Animega-is/ animega/
